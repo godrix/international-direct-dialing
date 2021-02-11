@@ -1,0 +1,5448 @@
+[
+    {
+        "ISO_code": "AF",
+        "IDD_country": 93,
+        "country": "Afghanistan",
+        "nativeName": "افغانستان",
+        "translations": {
+            "de": "Afghanistan",
+            "es": "Afganistán",
+            "fr": "Afghanistan",
+            "ja": "アフガニスタン",
+            "it": "Afghanistan",
+            "br": "Afeganistão",
+            "pt": "Afeganistão",
+            "nl": "Afghanistan",
+            "hr": "Afganistan",
+            "fa": "افغانستان"
+        },
+        "timezones": [
+            "UTC+04:30"
+        ],
+        "region": "Asia",
+        "subregion": "Southern Asia"
+    },
+    {
+        "ISO_code": "ZA",
+        "IDD_country": 27,
+        "country": "South Africa",
+        "nativeName": "South Africa",
+        "translations": {
+            "de": "Republik Südafrika",
+            "es": "República de Sudáfrica",
+            "fr": "Afrique du Sud",
+            "ja": "南アフリカ",
+            "it": "Sud Africa",
+            "br": "República Sul-Africana",
+            "pt": "República Sul-Africana",
+            "nl": "Zuid-Afrika",
+            "hr": "Južnoafrička Republika",
+            "fa": "آفریقای جنوبی"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "region": "Africa",
+        "subregion": "Southern Africa"
+    },
+    {
+        "ISO_code": "AL",
+        "IDD_country": 355,
+        "country": "Albania",
+        "nativeName": "Shqipëria",
+        "translations": {
+            "de": "Albanien",
+            "es": "Albania",
+            "fr": "Albanie",
+            "ja": "アルバニア",
+            "it": "Albania",
+            "br": "Albânia",
+            "pt": "Albânia",
+            "nl": "Albanië",
+            "hr": "Albanija",
+            "fa": "آلبانی"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe"
+    },
+    {
+        "ISO_code": "DE",
+        "IDD_country": 49,
+        "country": "Germany",
+        "nativeName": "Deutschland",
+        "translations": {
+            "de": "Deutschland",
+            "es": "Alemania",
+            "fr": "Allemagne",
+            "ja": "ドイツ",
+            "it": "Germania",
+            "br": "Alemanha",
+            "pt": "Alemanha",
+            "nl": "Duitsland",
+            "hr": "Njemačka",
+            "fa": "آلمان"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Europe",
+        "subregion": "Western Europe"
+    },
+    {
+        "ISO_code": "AD",
+        "IDD_country": 376,
+        "country": "Andorra",
+        "nativeName": "Andorra",
+        "translations": {
+            "de": "Andorra",
+            "es": "Andorra",
+            "fr": "Andorre",
+            "ja": "アンドラ",
+            "it": "Andorra",
+            "br": "Andorra",
+            "pt": "Andorra",
+            "nl": "Andorra",
+            "hr": "Andora",
+            "fa": "آندورا"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe"
+    },
+    {
+        "ISO_code": "AO",
+        "IDD_country": 244,
+        "country": "Angola",
+        "nativeName": "Angola",
+        "translations": {
+            "de": "Angola",
+            "es": "Angola",
+            "fr": "Angola",
+            "ja": "アンゴラ",
+            "it": "Angola",
+            "br": "Angola",
+            "pt": "Angola",
+            "nl": "Angola",
+            "hr": "Angola",
+            "fa": "آنگولا"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Africa",
+        "subregion": "Middle Africa"
+    },
+    {
+        "ISO_code": "AI",
+        "IDD_country": "1 264",
+        "country": "Anguilla",
+        "nativeName": "Anguilla",
+        "translations": {
+            "de": "Anguilla",
+            "es": "Anguilla",
+            "fr": "Anguilla",
+            "ja": "アンギラ",
+            "it": "Anguilla",
+            "br": "Anguila",
+            "pt": "Anguila",
+            "nl": "Anguilla",
+            "hr": "Angvila",
+            "fa": "آنگویلا"
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean"
+    },
+    {
+        "ISO_code": "AQ",
+        "IDD_country": 672,
+        "country": "Antarctica",
+        "nativeName": "Antarctica",
+        "translations": {
+            "de": "Antarktika",
+            "es": "Antártida",
+            "fr": "Antarctique",
+            "ja": "南極大陸",
+            "it": "Antartide",
+            "br": "Antártida",
+            "pt": "Antárctida",
+            "nl": "Antarctica",
+            "hr": "Antarktika",
+            "fa": "جنوبگان"
+        },
+        "timezones": [
+            "UTC-03:00",
+            "UTC+03:00",
+            "UTC+05:00",
+            "UTC+06:00",
+            "UTC+07:00",
+            "UTC+08:00",
+            "UTC+10:00",
+            "UTC+12:00"
+        ],
+        "region": "Polar",
+        "subregion": ""
+    },
+    {
+        "ISO_code": "AG",
+        "IDD_country": "1 268",
+        "country": "Antigua and Barbuda",
+        "nativeName": "Antigua and Barbuda",
+        "translations": {
+            "de": "Antigua und Barbuda",
+            "es": "Antigua y Barbuda",
+            "fr": "Antigua-et-Barbuda",
+            "ja": "アンティグア・バーブーダ",
+            "it": "Antigua e Barbuda",
+            "br": "Antígua e Barbuda",
+            "pt": "Antígua e Barbuda",
+            "nl": "Antigua en Barbuda",
+            "hr": "Antigva i Barbuda",
+            "fa": "آنتیگوا و باربودا"
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean"
+    },
+    {
+        "ISO_code": "AR",
+        "IDD_country": 54,
+        "country": "Argentina",
+        "nativeName": "Argentina",
+        "translations": {
+            "de": "Argentinien",
+            "es": "Argentina",
+            "fr": "Argentine",
+            "ja": "アルゼンチン",
+            "it": "Argentina",
+            "br": "Argentina",
+            "pt": "Argentina",
+            "nl": "Argentinië",
+            "hr": "Argentina",
+            "fa": "آرژانتین"
+        },
+        "timezones": [
+            "UTC-03:00"
+        ],
+        "region": "Americas",
+        "subregion": "South America"
+    },
+    {
+        "ISO_code": "DZ",
+        "IDD_country": 213,
+        "country": "Algeria",
+        "nativeName": "الجزائر",
+        "translations": {
+            "de": "Algerien",
+            "es": "Argelia",
+            "fr": "Algérie",
+            "ja": "アルジェリア",
+            "it": "Algeria",
+            "br": "Argélia",
+            "pt": "Argélia",
+            "nl": "Algerije",
+            "hr": "Alžir",
+            "fa": "الجزایر"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Africa",
+        "subregion": "Northern Africa"
+    },
+    {
+        "ISO_code": "AM",
+        "IDD_country": 374,
+        "country": "Armenia",
+        "nativeName": "Հայաստան",
+        "translations": {
+            "de": "Armenien",
+            "es": "Armenia",
+            "fr": "Arménie",
+            "ja": "アルメニア",
+            "it": "Armenia",
+            "br": "Armênia",
+            "pt": "Arménia",
+            "nl": "Armenië",
+            "hr": "Armenija",
+            "fa": "ارمنستان"
+        },
+        "timezones": [
+            "UTC+04:00"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia"
+    },
+    {
+        "ISO_code": "AW",
+        "IDD_country": 297,
+        "country": "Aruba",
+        "nativeName": "Aruba",
+        "translations": {
+            "de": "Aruba",
+            "es": "Aruba",
+            "fr": "Aruba",
+            "ja": "アルバ",
+            "it": "Aruba",
+            "br": "Aruba",
+            "pt": "Aruba",
+            "nl": "Aruba",
+            "hr": "Aruba",
+            "fa": "آروبا"
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean"
+    },
+    {
+        "ISO_code": "SA",
+        "IDD_country": 966,
+        "country": "Saudi Arabia",
+        "nativeName": "العربية السعودية",
+        "translations": {
+            "de": "Saudi-Arabien",
+            "es": "Arabia Saudí",
+            "fr": "Arabie Saoudite",
+            "ja": "サウジアラビア",
+            "it": "Arabia Saudita",
+            "br": "Arábia Saudita",
+            "pt": "Arábia Saudita",
+            "nl": "Saoedi-Arabië",
+            "hr": "Saudijska Arabija",
+            "fa": "عربستان سعودی"
+        },
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia"
+    },
+    {
+        "ISO_code": "AU",
+        "IDD_country": 61,
+        "country": "Australia",
+        "nativeName": "Australia",
+        "translations": {
+            "de": "Australien",
+            "es": "Australia",
+            "fr": "Australie",
+            "ja": "オーストラリア",
+            "it": "Australia",
+            "br": "Austrália",
+            "pt": "Austrália",
+            "nl": "Australië",
+            "hr": "Australija",
+            "fa": "استرالیا"
+        },
+        "timezones": [
+            "UTC+05:00",
+            "UTC+06:30",
+            "UTC+07:00",
+            "UTC+08:00",
+            "UTC+09:30",
+            "UTC+10:00",
+            "UTC+10:30",
+            "UTC+11:30"
+        ],
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand"
+    },
+    {
+        "ISO_code": "AT",
+        "IDD_country": 43,
+        "country": "Austria",
+        "nativeName": "Österreich",
+        "translations": {
+            "de": "Österreich",
+            "es": "Austria",
+            "fr": "Autriche",
+            "ja": "オーストリア",
+            "it": "Austria",
+            "br": "áustria",
+            "pt": "áustria",
+            "nl": "Oostenrijk",
+            "hr": "Austrija",
+            "fa": "اتریش"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Europe",
+        "subregion": "Western Europe"
+    },
+    {
+        "ISO_code": "AZ",
+        "IDD_country": 994,
+        "country": "Azerbaijan",
+        "nativeName": "Azərbaycan",
+        "translations": {
+            "de": "Aserbaidschan",
+            "es": "Azerbaiyán",
+            "fr": "Azerbaïdjan",
+            "ja": "アゼルバイジャン",
+            "it": "Azerbaijan",
+            "br": "Azerbaijão",
+            "pt": "Azerbaijão",
+            "nl": "Azerbeidzjan",
+            "hr": "Azerbajdžan",
+            "fa": "آذربایجان"
+        },
+        "timezones": [
+            "UTC+04:00"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia"
+    },
+    {
+        "ISO_code": "BS",
+        "IDD_country": "1 242",
+        "country": "Bahamas",
+        "nativeName": "Bahamas",
+        "translations": {
+            "de": "Bahamas",
+            "es": "Bahamas",
+            "fr": "Bahamas",
+            "ja": "バハマ",
+            "it": "Bahamas",
+            "br": "Bahamas",
+            "pt": "Baamas",
+            "nl": "Bahama’s",
+            "hr": "Bahami",
+            "fa": "باهاما"
+        },
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean"
+    },
+    {
+        "ISO_code": "BH",
+        "IDD_country": 973,
+        "country": "Bahrain",
+        "nativeName": "‏البحرين",
+        "translations": {
+            "de": "Bahrain",
+            "es": "Bahrein",
+            "fr": "Bahreïn",
+            "ja": "バーレーン",
+            "it": "Bahrein",
+            "br": "Bahrein",
+            "pt": "Barém",
+            "nl": "Bahrein",
+            "hr": "Bahrein",
+            "fa": "بحرین"
+        },
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia"
+    },
+    {
+        "ISO_code": "BD",
+        "IDD_country": 880,
+        "country": "Bangladesh",
+        "nativeName": "Bangladesh",
+        "translations": {
+            "de": "Bangladesch",
+            "es": "Bangladesh",
+            "fr": "Bangladesh",
+            "ja": "バングラデシュ",
+            "it": "Bangladesh",
+            "br": "Bangladesh",
+            "pt": "Bangladeche",
+            "nl": "Bangladesh",
+            "hr": "Bangladeš",
+            "fa": "بنگلادش"
+        },
+        "timezones": [
+            "UTC+06:00"
+        ],
+        "region": "Asia",
+        "subregion": "Southern Asia"
+    },
+    {
+        "ISO_code": "BB",
+        "IDD_country": "1 246",
+        "country": "Barbados",
+        "nativeName": "Barbados",
+        "translations": {
+            "de": "Barbados",
+            "es": "Barbados",
+            "fr": "Barbade",
+            "ja": "バルバドス",
+            "it": "Barbados",
+            "br": "Barbados",
+            "pt": "Barbados",
+            "nl": "Barbados",
+            "hr": "Barbados",
+            "fa": "باربادوس"
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean"
+    },
+    {
+        "ISO_code": "BE",
+        "IDD_country": 32,
+        "country": "Belgium",
+        "nativeName": "België",
+        "translations": {
+            "de": "Belgien",
+            "es": "Bélgica",
+            "fr": "Belgique",
+            "ja": "ベルギー",
+            "it": "Belgio",
+            "br": "Bélgica",
+            "pt": "Bélgica",
+            "nl": "België",
+            "hr": "Belgija",
+            "fa": "بلژیک"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Europe",
+        "subregion": "Western Europe"
+    },
+    {
+        "ISO_code": "BZ",
+        "IDD_country": 501,
+        "country": "Belize",
+        "nativeName": "Belize",
+        "translations": {
+            "de": "Belize",
+            "es": "Belice",
+            "fr": "Belize",
+            "ja": "ベリーズ",
+            "it": "Belize",
+            "br": "Belize",
+            "pt": "Belize",
+            "nl": "Belize",
+            "hr": "Belize",
+            "fa": "بلیز"
+        },
+        "timezones": [
+            "UTC-06:00"
+        ],
+        "region": "Americas",
+        "subregion": "Central America"
+    },
+    {
+        "ISO_code": "BJ",
+        "IDD_country": 229,
+        "country": "Benin",
+        "nativeName": "Bénin",
+        "translations": {
+            "de": "Benin",
+            "es": "Benín",
+            "fr": "Bénin",
+            "ja": "ベナン",
+            "it": "Benin",
+            "br": "Benin",
+            "pt": "Benim",
+            "nl": "Benin",
+            "hr": "Benin",
+            "fa": "بنین"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa"
+    },
+    {
+        "ISO_code": "BM",
+        "IDD_country": "1 441",
+        "country": "Bermuda",
+        "nativeName": "Bermuda",
+        "translations": {
+            "de": "Bermuda",
+            "es": "Bermudas",
+            "fr": "Bermudes",
+            "ja": "バミューダ",
+            "it": "Bermuda",
+            "br": "Bermudas",
+            "pt": "Bermudas",
+            "nl": "Bermuda",
+            "hr": "Bermudi",
+            "fa": "برمودا"
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "region": "Americas",
+        "subregion": "Northern America"
+    },
+    {
+        "ISO_code": "BT",
+        "IDD_country": 975,
+        "country": "Bhutan",
+        "nativeName": "ʼbrug-yul",
+        "translations": {
+            "de": "Bhutan",
+            "es": "Bután",
+            "fr": "Bhoutan",
+            "ja": "ブータン",
+            "it": "Bhutan",
+            "br": "Butão",
+            "pt": "Butão",
+            "nl": "Bhutan",
+            "hr": "Butan",
+            "fa": "بوتان"
+        },
+        "timezones": [
+            "UTC+06:00"
+        ],
+        "region": "Asia",
+        "subregion": "Southern Asia"
+    },
+    {
+        "ISO_code": "BY",
+        "IDD_country": 375,
+        "country": "Belarus",
+        "nativeName": "Белару́сь",
+        "translations": {
+            "de": "Weißrussland",
+            "es": "Bielorrusia",
+            "fr": "Biélorussie",
+            "ja": "ベラルーシ",
+            "it": "Bielorussia",
+            "br": "Bielorrússia",
+            "pt": "Bielorrússia",
+            "nl": "Wit-Rusland",
+            "hr": "Bjelorusija",
+            "fa": "بلاروس"
+        },
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe"
+    },
+    {
+        "ISO_code": "BO",
+        "IDD_country": 591,
+        "country": "Bolivia (Plurinational State of)",
+        "nativeName": "Bolivia",
+        "translations": {
+            "de": "Bolivien",
+            "es": "Bolivia",
+            "fr": "Bolivie",
+            "ja": "ボリビア多民族国",
+            "it": "Bolivia",
+            "br": "Bolívia",
+            "pt": "Bolívia",
+            "nl": "Bolivia",
+            "hr": "Bolivija",
+            "fa": "بولیوی"
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "region": "Americas",
+        "subregion": "South America"
+    },
+    {
+        "ISO_code": "BA",
+        "IDD_country": 387,
+        "country": "Bosnia and Herzegovina",
+        "nativeName": "Bosna i Hercegovina",
+        "translations": {
+            "de": "Bosnien und Herzegowina",
+            "es": "Bosnia y Herzegovina",
+            "fr": "Bosnie-Herzégovine",
+            "ja": "ボスニア・ヘルツェゴビナ",
+            "it": "Bosnia ed Erzegovina",
+            "br": "Bósnia e Herzegovina",
+            "pt": "Bósnia e Herzegovina",
+            "nl": "Bosnië en Herzegovina",
+            "hr": "Bosna i Hercegovina",
+            "fa": "بوسنی و هرزگوین"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe"
+    },
+    {
+        "ISO_code": "BW",
+        "IDD_country": 267,
+        "country": "Botswana",
+        "nativeName": "Botswana",
+        "translations": {
+            "de": "Botswana",
+            "es": "Botswana",
+            "fr": "Botswana",
+            "ja": "ボツワナ",
+            "it": "Botswana",
+            "br": "Botsuana",
+            "pt": "Botsuana",
+            "nl": "Botswana",
+            "hr": "Bocvana",
+            "fa": "بوتسوانا"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "region": "Africa",
+        "subregion": "Southern Africa"
+    },
+    {
+        "ISO_code": "BR",
+        "IDD_country": 55,
+        "country": "Brazil",
+        "nativeName": "Brasil",
+        "translations": {
+            "de": "Brasilien",
+            "es": "Brasil",
+            "fr": "Brésil",
+            "ja": "ブラジル",
+            "it": "Brasile",
+            "br": "Brasil",
+            "pt": "Brasil",
+            "nl": "Brazilië",
+            "hr": "Brazil",
+            "fa": "برزیل"
+        },
+        "timezones": [
+            "UTC-05:00",
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC-02:00"
+        ],
+        "region": "Americas",
+        "subregion": "South America"
+    },
+    {
+        "ISO_code": "IO",
+        "IDD_country": "",
+        "country": "British Indian Ocean Territory",
+        "nativeName": "British Indian Ocean Territory",
+        "translations": {
+            "de": "Britisches Territorium im Indischen Ozean",
+            "es": "Territorio Británico del Océano Índico",
+            "fr": "Territoire britannique de l'océan Indien",
+            "ja": "イギリス領インド洋地域",
+            "it": "Territorio britannico dell'oceano indiano",
+            "br": "Território Britânico do Oceano íÍdico",
+            "pt": "Território Britânico do Oceano Índico",
+            "nl": "Britse Gebieden in de Indische Oceaan",
+            "hr": "Britanski Indijskooceanski teritorij",
+            "fa": "قلمرو بریتانیا در اقیانوس هند"
+        },
+        "timezones": [
+            "UTC+06:00"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa"
+    },
+    {
+        "ISO_code": "BN",
+        "IDD_country": 673,
+        "country": "Brunei Darussalam",
+        "nativeName": "Negara Brunei Darussalam",
+        "translations": {
+            "de": "Brunei",
+            "es": "Brunei",
+            "fr": "Brunei",
+            "ja": "ブルネイ・ダルサラーム",
+            "it": "Brunei",
+            "br": "Brunei",
+            "pt": "Brunei",
+            "nl": "Brunei",
+            "hr": "Brunej",
+            "fa": "برونئی"
+        },
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "region": "Asia",
+        "subregion": "South-Eastern Asia"
+    },
+    {
+        "ISO_code": "BG",
+        "IDD_country": 359,
+        "country": "Bulgaria",
+        "nativeName": "България",
+        "translations": {
+            "de": "Bulgarien",
+            "es": "Bulgaria",
+            "fr": "Bulgarie",
+            "ja": "ブルガリア",
+            "it": "Bulgaria",
+            "br": "Bulgária",
+            "pt": "Bulgária",
+            "nl": "Bulgarije",
+            "hr": "Bugarska",
+            "fa": "بلغارستان"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe"
+    },
+    {
+        "ISO_code": "BF",
+        "IDD_country": 226,
+        "country": "Burkina Faso",
+        "nativeName": "Burkina Faso",
+        "translations": {
+            "de": "Burkina Faso",
+            "es": "Burkina Faso",
+            "fr": "Burkina Faso",
+            "ja": "ブルキナファソ",
+            "it": "Burkina Faso",
+            "br": "Burkina Faso",
+            "pt": "Burquina Faso",
+            "nl": "Burkina Faso",
+            "hr": "Burkina Faso",
+            "fa": "بورکینافاسو"
+        },
+        "timezones": [
+            "UTC"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa"
+    },
+    {
+        "ISO_code": "MM",
+        "IDD_country": 95,
+        "country": "Myanmar",
+        "nativeName": "Myanma",
+        "translations": {
+            "de": "Myanmar",
+            "es": "Myanmar",
+            "fr": "Myanmar",
+            "ja": "ミャンマー",
+            "it": "Birmania",
+            "br": "Myanmar",
+            "pt": "Myanmar",
+            "nl": "Myanmar",
+            "hr": "Mijanmar",
+            "fa": "میانمار"
+        },
+        "timezones": [
+            "UTC+06:30"
+        ],
+        "region": "Asia",
+        "subregion": "South-Eastern Asia"
+    },
+    {
+        "ISO_code": "BI",
+        "IDD_country": 257,
+        "country": "Burundi",
+        "nativeName": "Burundi",
+        "translations": {
+            "de": "Burundi",
+            "es": "Burundi",
+            "fr": "Burundi",
+            "ja": "ブルンジ",
+            "it": "Burundi",
+            "br": "Burundi",
+            "pt": "Burúndi",
+            "nl": "Burundi",
+            "hr": "Burundi",
+            "fa": "بوروندی"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa"
+    },
+    {
+        "ISO_code": "CM",
+        "IDD_country": 237,
+        "country": "Cameroon",
+        "nativeName": "Cameroon",
+        "translations": {
+            "de": "Kamerun",
+            "es": "Camerún",
+            "fr": "Cameroun",
+            "ja": "カメルーン",
+            "it": "Camerun",
+            "br": "Camarões",
+            "pt": "Camarões",
+            "nl": "Kameroen",
+            "hr": "Kamerun",
+            "fa": "کامرون"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Africa",
+        "subregion": "Middle Africa"
+    },
+    {
+        "ISO_code": "CV",
+        "IDD_country": 238,
+        "country": "Cabo Verde",
+        "nativeName": "Cabo Verde",
+        "translations": {
+            "de": "Kap Verde",
+            "es": "Cabo Verde",
+            "fr": "Cap Vert",
+            "ja": "カーボベルデ",
+            "it": "Capo Verde",
+            "br": "Cabo Verde",
+            "pt": "Cabo Verde",
+            "nl": "Kaapverdië",
+            "hr": "Zelenortska Republika",
+            "fa": "کیپ ورد"
+        },
+        "timezones": [
+            "UTC-01:00"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa"
+    },
+    {
+        "ISO_code": "KH",
+        "IDD_country": 855,
+        "country": "Cambodia",
+        "nativeName": "Kâmpŭchéa",
+        "translations": {
+            "de": "Kambodscha",
+            "es": "Camboya",
+            "fr": "Cambodge",
+            "ja": "カンボジア",
+            "it": "Cambogia",
+            "br": "Camboja",
+            "pt": "Camboja",
+            "nl": "Cambodja",
+            "hr": "Kambodža",
+            "fa": "کامبوج"
+        },
+        "timezones": [
+            "UTC+07:00"
+        ],
+        "region": "Asia",
+        "subregion": "South-Eastern Asia"
+    },
+    {
+        "ISO_code": "CA",
+        "IDD_country": 1,
+        "country": "Canada",
+        "nativeName": "Canada",
+        "translations": {
+            "de": "Kanada",
+            "es": "Canadá",
+            "fr": "Canada",
+            "ja": "カナダ",
+            "it": "Canada",
+            "br": "Canadá",
+            "pt": "Canadá",
+            "nl": "Canada",
+            "hr": "Kanada",
+            "fa": "کانادا"
+        },
+        "timezones": [
+            "UTC-08:00",
+            "UTC-07:00",
+            "UTC-06:00",
+            "UTC-05:00",
+            "UTC-04:00",
+            "UTC-03:30"
+        ],
+        "region": "Americas",
+        "subregion": "Northern America"
+    },
+    {
+        "ISO_code": "QA",
+        "IDD_country": 974,
+        "country": "Qatar",
+        "nativeName": "قطر",
+        "translations": {
+            "de": "Katar",
+            "es": "Catar",
+            "fr": "Qatar",
+            "ja": "カタール",
+            "it": "Qatar",
+            "br": "Catar",
+            "pt": "Catar",
+            "nl": "Qatar",
+            "hr": "Katar",
+            "fa": "قطر"
+        },
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia"
+    },
+    {
+        "ISO_code": "TD",
+        "IDD_country": 235,
+        "country": "Chad",
+        "nativeName": "Tchad",
+        "translations": {
+            "de": "Tschad",
+            "es": "Chad",
+            "fr": "Tchad",
+            "ja": "チャド",
+            "it": "Ciad",
+            "br": "Chade",
+            "pt": "Chade",
+            "nl": "Tsjaad",
+            "hr": "Čad",
+            "fa": "چاد"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Africa",
+        "subregion": "Middle Africa"
+    },
+    {
+        "ISO_code": "CL",
+        "IDD_country": 56,
+        "country": "Chile",
+        "nativeName": "Chile",
+        "translations": {
+            "de": "Chile",
+            "es": "Chile",
+            "fr": "Chili",
+            "ja": "チリ",
+            "it": "Cile",
+            "br": "Chile",
+            "pt": "Chile",
+            "nl": "Chili",
+            "hr": "Čile",
+            "fa": "شیلی"
+        },
+        "timezones": [
+            "UTC-06:00",
+            "UTC-04:00"
+        ],
+        "region": "Americas",
+        "subregion": "South America"
+    },
+    {
+        "ISO_code": "CN",
+        "IDD_country": 86,
+        "country": "China",
+        "nativeName": "中国",
+        "translations": {
+            "de": "China",
+            "es": "China",
+            "fr": "Chine",
+            "ja": "中国",
+            "it": "Cina",
+            "br": "China",
+            "pt": "China",
+            "nl": "China",
+            "hr": "Kina",
+            "fa": "چین"
+        },
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia"
+    },
+    {
+        "ISO_code": "CY",
+        "IDD_country": 357,
+        "country": "Cyprus",
+        "nativeName": "Κύπρος",
+        "translations": {
+            "de": "Zypern",
+            "es": "Chipre",
+            "fr": "Chypre",
+            "ja": "キプロス",
+            "it": "Cipro",
+            "br": "Chipre",
+            "pt": "Chipre",
+            "nl": "Cyprus",
+            "hr": "Cipar",
+            "fa": "قبرس"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe"
+    },
+    {
+        "ISO_code": "CX",
+        "IDD_country": 61,
+        "country": "Christmas Island",
+        "nativeName": "Christmas Island",
+        "translations": {
+            "de": "Weihnachtsinsel",
+            "es": "Isla de Navidad",
+            "fr": "Île Christmas",
+            "ja": "クリスマス島",
+            "it": "Isola di Natale",
+            "br": "Ilha Christmas",
+            "pt": "Ilha do Natal",
+            "nl": "Christmaseiland",
+            "hr": "Božićni otok",
+            "fa": "جزیره کریسمس"
+        },
+        "timezones": [
+            "UTC+07:00"
+        ],
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand"
+    },
+    {
+        "ISO_code": "SG",
+        "IDD_country": 65,
+        "country": "Singapore",
+        "nativeName": "Singapore",
+        "translations": {
+            "de": "Singapur",
+            "es": "Singapur",
+            "fr": "Singapour",
+            "ja": "シンガポール",
+            "it": "Singapore",
+            "br": "Singapura",
+            "pt": "Singapura",
+            "nl": "Singapore",
+            "hr": "Singapur",
+            "fa": "سنگاپور"
+        },
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "region": "Asia",
+        "subregion": "South-Eastern Asia"
+    },
+    {
+        "ISO_code": "CO",
+        "IDD_country": 57,
+        "country": "Colombia",
+        "nativeName": "Colombia",
+        "translations": {
+            "de": "Kolumbien",
+            "es": "Colombia",
+            "fr": "Colombie",
+            "ja": "コロンビア",
+            "it": "Colombia",
+            "br": "Colômbia",
+            "pt": "Colômbia",
+            "nl": "Colombia",
+            "hr": "Kolumbija",
+            "fa": "کلمبیا"
+        },
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "region": "Americas",
+        "subregion": "South America"
+    },
+    {
+        "ISO_code": "KM",
+        "IDD_country": 269,
+        "country": "Comoros",
+        "nativeName": "Komori",
+        "translations": {
+            "de": "Union der Komoren",
+            "es": "Comoras",
+            "fr": "Comores",
+            "ja": "コモロ",
+            "it": "Comore",
+            "br": "Comores",
+            "pt": "Comores",
+            "nl": "Comoren",
+            "hr": "Komori",
+            "fa": "کومور"
+        },
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa"
+    },
+    {
+        "ISO_code": "KP",
+        "IDD_country": 850,
+        "country": "Korea (Democratic People's Republic of)",
+        "nativeName": "북한",
+        "translations": {
+            "de": "Nordkorea",
+            "es": "Corea del Norte",
+            "fr": "Corée du Nord",
+            "ja": "朝鮮民主主義人民共和国",
+            "it": "Corea del Nord",
+            "br": "Coreia do Norte",
+            "pt": "Coreia do Norte",
+            "nl": "Noord-Korea",
+            "hr": "Sjeverna Koreja",
+            "fa": "کره جنوبی"
+        },
+        "timezones": [
+            "UTC+09:00"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia"
+    },
+    {
+        "ISO_code": "KR",
+        "IDD_country": 82,
+        "country": "Korea (Republic of)",
+        "nativeName": "대한민국",
+        "translations": {
+            "de": "Südkorea",
+            "es": "Corea del Sur",
+            "fr": "Corée du Sud",
+            "ja": "大韓民国",
+            "it": "Corea del Sud",
+            "br": "Coreia do Sul",
+            "pt": "Coreia do Sul",
+            "nl": "Zuid-Korea",
+            "hr": "Južna Koreja",
+            "fa": "کره شمالی"
+        },
+        "timezones": [
+            "UTC+09:00"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia"
+    },
+    {
+        "ISO_code": "CI",
+        "IDD_country": 225,
+        "country": "Côte d'Ivoire",
+        "nativeName": "Côte d'Ivoire",
+        "translations": {
+            "de": "Elfenbeinküste",
+            "es": "Costa de Marfil",
+            "fr": "Côte d'Ivoire",
+            "ja": "コートジボワール",
+            "it": "Costa D'Avorio",
+            "br": "Costa do Marfim",
+            "pt": "Costa do Marfim",
+            "nl": "Ivoorkust",
+            "hr": "Obala Bjelokosti",
+            "fa": "ساحل عاج"
+        },
+        "timezones": [
+            "UTC"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa"
+    },
+    {
+        "ISO_code": "CR",
+        "IDD_country": 506,
+        "country": "Costa Rica",
+        "nativeName": "Costa Rica",
+        "translations": {
+            "de": "Costa Rica",
+            "es": "Costa Rica",
+            "fr": "Costa Rica",
+            "ja": "コスタリカ",
+            "it": "Costa Rica",
+            "br": "Costa Rica",
+            "pt": "Costa Rica",
+            "nl": "Costa Rica",
+            "hr": "Kostarika",
+            "fa": "کاستاریکا"
+        },
+        "timezones": [
+            "UTC-06:00"
+        ],
+        "region": "Americas",
+        "subregion": "Central America"
+    },
+    {
+        "ISO_code": "HR",
+        "IDD_country": 385,
+        "country": "Croatia",
+        "nativeName": "Hrvatska",
+        "translations": {
+            "de": "Kroatien",
+            "es": "Croacia",
+            "fr": "Croatie",
+            "ja": "クロアチア",
+            "it": "Croazia",
+            "br": "Croácia",
+            "pt": "Croácia",
+            "nl": "Kroatië",
+            "hr": "Hrvatska",
+            "fa": "کرواسی"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe"
+    },
+    {
+        "ISO_code": "CU",
+        "IDD_country": 53,
+        "country": "Cuba",
+        "nativeName": "Cuba",
+        "translations": {
+            "de": "Kuba",
+            "es": "Cuba",
+            "fr": "Cuba",
+            "ja": "キューバ",
+            "it": "Cuba",
+            "br": "Cuba",
+            "pt": "Cuba",
+            "nl": "Cuba",
+            "hr": "Kuba",
+            "fa": "کوبا"
+        },
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean"
+    },
+    {
+        "ISO_code": "DK",
+        "IDD_country": 45,
+        "country": "Denmark",
+        "nativeName": "Danmark",
+        "translations": {
+            "de": "Dänemark",
+            "es": "Dinamarca",
+            "fr": "Danemark",
+            "ja": "デンマーク",
+            "it": "Danimarca",
+            "br": "Dinamarca",
+            "pt": "Dinamarca",
+            "nl": "Denemarken",
+            "hr": "Danska",
+            "fa": "دانمارک"
+        },
+        "timezones": [
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC-01:00",
+            "UTC",
+            "UTC+01:00"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe"
+    },
+    {
+        "ISO_code": "DJ",
+        "IDD_country": 253,
+        "country": "Djibouti",
+        "nativeName": "Djibouti",
+        "translations": {
+            "de": "Dschibuti",
+            "es": "Yibuti",
+            "fr": "Djibouti",
+            "ja": "ジブチ",
+            "it": "Gibuti",
+            "br": "Djibuti",
+            "pt": "Djibuti",
+            "nl": "Djibouti",
+            "hr": "Džibuti",
+            "fa": "جیبوتی"
+        },
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa"
+    },
+    {
+        "ISO_code": "DM",
+        "IDD_country": "1 767",
+        "country": "Dominica",
+        "nativeName": "Dominica",
+        "translations": {
+            "de": "Dominica",
+            "es": "Dominica",
+            "fr": "Dominique",
+            "ja": "ドミニカ国",
+            "it": "Dominica",
+            "br": "Dominica",
+            "pt": "Dominica",
+            "nl": "Dominica",
+            "hr": "Dominika",
+            "fa": "دومینیکا"
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean"
+    },
+    {
+        "ISO_code": "EG",
+        "IDD_country": 20,
+        "country": "Egypt",
+        "nativeName": "مصر‎",
+        "translations": {
+            "de": "Ägypten",
+            "es": "Egipto",
+            "fr": "Égypte",
+            "ja": "エジプト",
+            "it": "Egitto",
+            "br": "Egito",
+            "pt": "Egipto",
+            "nl": "Egypte",
+            "hr": "Egipat",
+            "fa": "مصر"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "region": "Africa",
+        "subregion": "Northern Africa"
+    },
+    {
+        "ISO_code": "SV",
+        "IDD_country": 503,
+        "country": "El Salvador",
+        "nativeName": "El Salvador",
+        "translations": {
+            "de": "El Salvador",
+            "es": "El Salvador",
+            "fr": "Salvador",
+            "ja": "エルサルバドル",
+            "it": "El Salvador",
+            "br": "El Salvador",
+            "pt": "El Salvador",
+            "nl": "El Salvador",
+            "hr": "Salvador",
+            "fa": "السالوادور"
+        },
+        "timezones": [
+            "UTC-06:00"
+        ],
+        "region": "Americas",
+        "subregion": "Central America"
+    },
+    {
+        "ISO_code": "AE",
+        "IDD_country": 971,
+        "country": "United Arab Emirates",
+        "nativeName": "دولة الإمارات العربية المتحدة",
+        "translations": {
+            "de": "Vereinigte Arabische Emirate",
+            "es": "Emiratos Árabes Unidos",
+            "fr": "Émirats arabes unis",
+            "ja": "アラブ首長国連邦",
+            "it": "Emirati Arabi Uniti",
+            "br": "Emirados árabes Unidos",
+            "pt": "Emirados árabes Unidos",
+            "nl": "Verenigde Arabische Emiraten",
+            "hr": "Ujedinjeni Arapski Emirati",
+            "fa": "امارات متحده عربی"
+        },
+        "timezones": [
+            "UTC+04"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia"
+    },
+    {
+        "ISO_code": "EC",
+        "IDD_country": 593,
+        "country": "Ecuador",
+        "nativeName": "Ecuador",
+        "translations": {
+            "de": "Ecuador",
+            "es": "Ecuador",
+            "fr": "Équateur",
+            "ja": "エクアドル",
+            "it": "Ecuador",
+            "br": "Equador",
+            "pt": "Equador",
+            "nl": "Ecuador",
+            "hr": "Ekvador",
+            "fa": "اکوادور"
+        },
+        "timezones": [
+            "UTC-06:00",
+            "UTC-05:00"
+        ],
+        "region": "Americas",
+        "subregion": "South America"
+    },
+    {
+        "ISO_code": "ER",
+        "IDD_country": 291,
+        "country": "Eritrea",
+        "nativeName": "ኤርትራ",
+        "translations": {
+            "de": "Eritrea",
+            "es": "Eritrea",
+            "fr": "Érythrée",
+            "ja": "エリトリア",
+            "it": "Eritrea",
+            "br": "Eritreia",
+            "pt": "Eritreia",
+            "nl": "Eritrea",
+            "hr": "Eritreja",
+            "fa": "اریتره"
+        },
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa"
+    },
+    {
+        "ISO_code": "EE",
+        "IDD_country": 372,
+        "country": "Estonia",
+        "nativeName": "Eesti",
+        "translations": {
+            "de": "Estland",
+            "es": "Estonia",
+            "fr": "Estonie",
+            "ja": "エストニア",
+            "it": "Estonia",
+            "br": "Estônia",
+            "pt": "Estónia",
+            "nl": "Estland",
+            "hr": "Estonija",
+            "fa": "استونی"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe"
+    },
+    {
+        "ISO_code": "ES",
+        "IDD_country": 34,
+        "country": "Spain",
+        "nativeName": "España",
+        "translations": {
+            "de": "Spanien",
+            "es": "España",
+            "fr": "Espagne",
+            "ja": "スペイン",
+            "it": "Spagna",
+            "br": "Espanha",
+            "pt": "Espanha",
+            "nl": "Spanje",
+            "hr": "Španjolska",
+            "fa": "اسپانیا"
+        },
+        "timezones": [
+            "UTC",
+            "UTC+01:00"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe"
+    },
+    {
+        "ISO_code": "ET",
+        "IDD_country": 251,
+        "country": "Ethiopia",
+        "nativeName": "ኢትዮጵያ",
+        "translations": {
+            "de": "Äthiopien",
+            "es": "Etiopía",
+            "fr": "Éthiopie",
+            "ja": "エチオピア",
+            "it": "Etiopia",
+            "br": "Etiópia",
+            "pt": "Etiópia",
+            "nl": "Ethiopië",
+            "hr": "Etiopija",
+            "fa": "اتیوپی"
+        },
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa"
+    },
+    {
+        "ISO_code": "FJ",
+        "IDD_country": 679,
+        "country": "Fiji",
+        "nativeName": "Fiji",
+        "translations": {
+            "de": "Fidschi",
+            "es": "Fiyi",
+            "fr": "Fidji",
+            "ja": "フィジー",
+            "it": "Figi",
+            "br": "Fiji",
+            "pt": "Fiji",
+            "nl": "Fiji",
+            "hr": "Fiđi",
+            "fa": "فیجی"
+        },
+        "timezones": [
+            "UTC+12:00"
+        ],
+        "region": "Oceania",
+        "subregion": "Melanesia"
+    },
+    {
+        "ISO_code": "FI",
+        "IDD_country": 358,
+        "country": "Finland",
+        "nativeName": "Suomi",
+        "translations": {
+            "de": "Finnland",
+            "es": "Finlandia",
+            "fr": "Finlande",
+            "ja": "フィンランド",
+            "it": "Finlandia",
+            "br": "Finlândia",
+            "pt": "Finlândia",
+            "nl": "Finland",
+            "hr": "Finska",
+            "fa": "فنلاند"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe"
+    },
+    {
+        "ISO_code": "FR",
+        "IDD_country": 33,
+        "country": "France",
+        "nativeName": "France",
+        "translations": {
+            "de": "Frankreich",
+            "es": "Francia",
+            "fr": "France",
+            "ja": "フランス",
+            "it": "Francia",
+            "br": "França",
+            "pt": "França",
+            "nl": "Frankrijk",
+            "hr": "Francuska",
+            "fa": "فرانسه"
+        },
+        "timezones": [
+            "UTC-10:00",
+            "UTC-09:30",
+            "UTC-09:00",
+            "UTC-08:00",
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC+01:00",
+            "UTC+03:00",
+            "UTC+04:00",
+            "UTC+05:00",
+            "UTC+11:00",
+            "UTC+12:00"
+        ],
+        "region": "Europe",
+        "subregion": "Western Europe"
+    },
+    {
+        "ISO_code": "GA",
+        "IDD_country": 241,
+        "country": "Gabon",
+        "nativeName": "Gabon",
+        "translations": {
+            "de": "Gabun",
+            "es": "Gabón",
+            "fr": "Gabon",
+            "ja": "ガボン",
+            "it": "Gabon",
+            "br": "Gabão",
+            "pt": "Gabão",
+            "nl": "Gabon",
+            "hr": "Gabon",
+            "fa": "گابن"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Africa",
+        "subregion": "Middle Africa"
+    },
+    {
+        "ISO_code": "GM",
+        "IDD_country": 220,
+        "country": "Gambia",
+        "nativeName": "Gambia",
+        "translations": {
+            "de": "Gambia",
+            "es": "Gambia",
+            "fr": "Gambie",
+            "ja": "ガンビア",
+            "it": "Gambia",
+            "br": "Gâmbia",
+            "pt": "Gâmbia",
+            "nl": "Gambia",
+            "hr": "Gambija",
+            "fa": "گامبیا"
+        },
+        "timezones": [
+            "UTC+00:00"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa"
+    },
+    {
+        "ISO_code": "PS",
+        "IDD_country": 970,
+        "country": "Palestine, State of",
+        "nativeName": "فلسطين",
+        "translations": {
+            "de": "Palästina",
+            "es": "Palestina",
+            "fr": "Palestine",
+            "ja": "パレスチナ",
+            "it": "Palestina",
+            "br": "Palestina",
+            "pt": "Palestina",
+            "nl": "Palestijnse gebieden",
+            "hr": "Palestina",
+            "fa": "فلسطین"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia"
+    },
+    {
+        "ISO_code": "GE",
+        "IDD_country": 995,
+        "country": "Georgia",
+        "nativeName": "საქართველო",
+        "translations": {
+            "de": "Georgien",
+            "es": "Georgia",
+            "fr": "Géorgie",
+            "ja": "グルジア",
+            "it": "Georgia",
+            "br": "Geórgia",
+            "pt": "Geórgia",
+            "nl": "Georgië",
+            "hr": "Gruzija",
+            "fa": "گرجستان"
+        },
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia"
+    },
+    {
+        "ISO_code": "GH",
+        "IDD_country": 233,
+        "country": "Ghana",
+        "nativeName": "Ghana",
+        "translations": {
+            "de": "Ghana",
+            "es": "Ghana",
+            "fr": "Ghana",
+            "ja": "ガーナ",
+            "it": "Ghana",
+            "br": "Gana",
+            "pt": "Gana",
+            "nl": "Ghana",
+            "hr": "Gana",
+            "fa": "غنا"
+        },
+        "timezones": [
+            "UTC"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa"
+    },
+    {
+        "ISO_code": "GI",
+        "IDD_country": 350,
+        "country": "Gibraltar",
+        "nativeName": "Gibraltar",
+        "translations": {
+            "de": "Gibraltar",
+            "es": "Gibraltar",
+            "fr": "Gibraltar",
+            "ja": "ジブラルタル",
+            "it": "Gibilterra",
+            "br": "Gibraltar",
+            "pt": "Gibraltar",
+            "nl": "Gibraltar",
+            "hr": "Gibraltar",
+            "fa": "جبل‌طارق"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe"
+    },
+    {
+        "ISO_code": "GR",
+        "IDD_country": 30,
+        "country": "Greece",
+        "nativeName": "Ελλάδα",
+        "translations": {
+            "de": "Griechenland",
+            "es": "Grecia",
+            "fr": "Grèce",
+            "ja": "ギリシャ",
+            "it": "Grecia",
+            "br": "Grécia",
+            "pt": "Grécia",
+            "nl": "Griekenland",
+            "hr": "Grčka",
+            "fa": "یونان"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe"
+    },
+    {
+        "ISO_code": "GL",
+        "IDD_country": 299,
+        "country": "Greenland",
+        "nativeName": "Kalaallit Nunaat",
+        "translations": {
+            "de": "Grönland",
+            "es": "Groenlandia",
+            "fr": "Groenland",
+            "ja": "グリーンランド",
+            "it": "Groenlandia",
+            "br": "Groelândia",
+            "pt": "Gronelândia",
+            "nl": "Groenland",
+            "hr": "Grenland",
+            "fa": "گرینلند"
+        },
+        "timezones": [
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC-01:00",
+            "UTC+00:00"
+        ],
+        "region": "Americas",
+        "subregion": "Northern America"
+    },
+    {
+        "ISO_code": "GD",
+        "IDD_country": "1 473",
+        "country": "Grenada",
+        "nativeName": "Grenada",
+        "translations": {
+            "de": "Grenada",
+            "es": "Grenada",
+            "fr": "Grenade",
+            "ja": "グレナダ",
+            "it": "Grenada",
+            "br": "Granada",
+            "pt": "Granada",
+            "nl": "Grenada",
+            "hr": "Grenada",
+            "fa": "گرنادا"
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean"
+    },
+    {
+        "ISO_code": "GU",
+        "IDD_country": "1 671",
+        "country": "Guam",
+        "nativeName": "Guam",
+        "translations": {
+            "de": "Guam",
+            "es": "Guam",
+            "fr": "Guam",
+            "ja": "グアム",
+            "it": "Guam",
+            "br": "Guam",
+            "pt": "Guame",
+            "nl": "Guam",
+            "hr": "Guam",
+            "fa": "گوام"
+        },
+        "timezones": [
+            "UTC+10:00"
+        ],
+        "region": "Oceania",
+        "subregion": "Micronesia"
+    },
+    {
+        "ISO_code": "GT",
+        "IDD_country": 502,
+        "country": "Guatemala",
+        "nativeName": "Guatemala",
+        "translations": {
+            "de": "Guatemala",
+            "es": "Guatemala",
+            "fr": "Guatemala",
+            "ja": "グアテマラ",
+            "it": "Guatemala",
+            "br": "Guatemala",
+            "pt": "Guatemala",
+            "nl": "Guatemala",
+            "hr": "Gvatemala",
+            "fa": "گواتمالا"
+        },
+        "timezones": [
+            "UTC-06:00"
+        ],
+        "region": "Americas",
+        "subregion": "Central America"
+    },
+    {
+        "ISO_code": "GY",
+        "IDD_country": 592,
+        "country": "Guyana",
+        "nativeName": "Guyana",
+        "translations": {
+            "de": "Guyana",
+            "es": "Guyana",
+            "fr": "Guyane",
+            "ja": "ガイアナ",
+            "it": "Guyana",
+            "br": "Guiana",
+            "pt": "Guiana",
+            "nl": "Guyana",
+            "hr": "Gvajana",
+            "fa": "گویان"
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "region": "Americas",
+        "subregion": "South America"
+    },
+    {
+        "ISO_code": "GN",
+        "IDD_country": 224,
+        "country": "Guinea",
+        "nativeName": "Guinée",
+        "translations": {
+            "de": "Guinea",
+            "es": "Guinea",
+            "fr": "Guinée",
+            "ja": "ギニア",
+            "it": "Guinea",
+            "br": "Guiné",
+            "pt": "Guiné",
+            "nl": "Guinee",
+            "hr": "Gvineja",
+            "fa": "گینه"
+        },
+        "timezones": [
+            "UTC"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa"
+    },
+    {
+        "ISO_code": "GQ",
+        "IDD_country": 240,
+        "country": "Equatorial Guinea",
+        "nativeName": "Guinea Ecuatorial",
+        "translations": {
+            "de": "Äquatorial-Guinea",
+            "es": "Guinea Ecuatorial",
+            "fr": "Guinée-Équatoriale",
+            "ja": "赤道ギニア",
+            "it": "Guinea Equatoriale",
+            "br": "Guiné Equatorial",
+            "pt": "Guiné Equatorial",
+            "nl": "Equatoriaal-Guinea",
+            "hr": "Ekvatorijalna Gvineja",
+            "fa": "گینه استوایی"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Africa",
+        "subregion": "Middle Africa"
+    },
+    {
+        "ISO_code": "GW",
+        "IDD_country": 245,
+        "country": "Guinea-Bissau",
+        "nativeName": "Guiné-Bissau",
+        "translations": {
+            "de": "Guinea-Bissau",
+            "es": "Guinea-Bisáu",
+            "fr": "Guinée-Bissau",
+            "ja": "ギニアビサウ",
+            "it": "Guinea-Bissau",
+            "br": "Guiné-Bissau",
+            "pt": "Guiné-Bissau",
+            "nl": "Guinee-Bissau",
+            "hr": "Gvineja Bisau",
+            "fa": "گینه بیسائو"
+        },
+        "timezones": [
+            "UTC"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa"
+    },
+    {
+        "ISO_code": "HT",
+        "IDD_country": 509,
+        "country": "Haiti",
+        "nativeName": "Haïti",
+        "translations": {
+            "de": "Haiti",
+            "es": "Haiti",
+            "fr": "Haïti",
+            "ja": "ハイチ",
+            "it": "Haiti",
+            "br": "Haiti",
+            "pt": "Haiti",
+            "nl": "Haïti",
+            "hr": "Haiti",
+            "fa": "هائیتی"
+        },
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean"
+    },
+    {
+        "ISO_code": "HN",
+        "IDD_country": 504,
+        "country": "Honduras",
+        "nativeName": "Honduras",
+        "translations": {
+            "de": "Honduras",
+            "es": "Honduras",
+            "fr": "Honduras",
+            "ja": "ホンジュラス",
+            "it": "Honduras",
+            "br": "Honduras",
+            "pt": "Honduras",
+            "nl": "Honduras",
+            "hr": "Honduras",
+            "fa": "هندوراس"
+        },
+        "timezones": [
+            "UTC-06:00"
+        ],
+        "region": "Americas",
+        "subregion": "Central America"
+    },
+    {
+        "ISO_code": "HK",
+        "IDD_country": 852,
+        "country": "Hong Kong",
+        "nativeName": "香港",
+        "translations": {
+            "de": "Hong Kong",
+            "es": "Hong Kong",
+            "fr": "Hong Kong",
+            "ja": "香港",
+            "it": "Hong Kong",
+            "br": "Hong Kong",
+            "pt": "Hong Kong",
+            "nl": "Hongkong",
+            "hr": "Hong Kong",
+            "fa": "هنگ‌کنگ"
+        },
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia"
+    },
+    {
+        "ISO_code": "HU",
+        "IDD_country": 36,
+        "country": "Hungary",
+        "nativeName": "Magyarország",
+        "translations": {
+            "de": "Ungarn",
+            "es": "Hungría",
+            "fr": "Hongrie",
+            "ja": "ハンガリー",
+            "it": "Ungheria",
+            "br": "Hungria",
+            "pt": "Hungria",
+            "nl": "Hongarije",
+            "hr": "Mađarska",
+            "fa": "مجارستان"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe"
+    },
+    {
+        "ISO_code": "IS",
+        "IDD_country": 354,
+        "country": "Iceland",
+        "nativeName": "Ísland",
+        "translations": {
+            "de": "Island",
+            "es": "Islandia",
+            "fr": "Islande",
+            "ja": "アイスランド",
+            "it": "Islanda",
+            "br": "Islândia",
+            "pt": "Islândia",
+            "nl": "IJsland",
+            "hr": "Island",
+            "fa": "ایسلند"
+        },
+        "timezones": [
+            "UTC"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe"
+    },
+    {
+        "ISO_code": "KY",
+        "IDD_country": "1 345",
+        "country": "Cayman Islands",
+        "nativeName": "Cayman Islands",
+        "translations": {
+            "de": "Kaimaninseln",
+            "es": "Islas Caimán",
+            "fr": "Îles Caïmans",
+            "ja": "ケイマン諸島",
+            "it": "Isole Cayman",
+            "br": "Ilhas Cayman",
+            "pt": "Ilhas Caimão",
+            "nl": "Caymaneilanden",
+            "hr": "Kajmanski otoci",
+            "fa": "جزایر کیمن"
+        },
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean"
+    },
+    {
+        "ISO_code": "CC",
+        "IDD_country": 61,
+        "country": "Cocos (Keeling) Islands",
+        "nativeName": "Cocos (Keeling) Islands",
+        "translations": {
+            "de": "Kokosinseln",
+            "es": "Islas Cocos o Islas Keeling",
+            "fr": "Îles Cocos",
+            "ja": "ココス（キーリング）諸島",
+            "it": "Isole Cocos e Keeling",
+            "br": "Ilhas Cocos",
+            "pt": "Ilhas dos Cocos",
+            "nl": "Cocoseilanden",
+            "hr": "Kokosovi Otoci",
+            "fa": "جزایر کوکوس"
+        },
+        "timezones": [
+            "UTC+06:30"
+        ],
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand"
+    },
+    {
+        "ISO_code": "IM",
+        "IDD_country": 44,
+        "country": "Isle of Man",
+        "nativeName": "Isle of Man",
+        "translations": {
+            "de": "Insel Man",
+            "es": "Isla de Man",
+            "fr": "Île de Man",
+            "ja": "マン島",
+            "it": "Isola di Man",
+            "br": "Ilha de Man",
+            "pt": "Ilha de Man",
+            "nl": "Isle of Man",
+            "hr": "Otok Man",
+            "fa": "جزیره من"
+        },
+        "timezones": [
+            "UTC+00:00"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe"
+    },
+    {
+        "ISO_code": "CK",
+        "IDD_country": 682,
+        "country": "Cook Islands",
+        "nativeName": "Cook Islands",
+        "translations": {
+            "de": "Cookinseln",
+            "es": "Islas Cook",
+            "fr": "Îles Cook",
+            "ja": "クック諸島",
+            "it": "Isole Cook",
+            "br": "Ilhas Cook",
+            "pt": "Ilhas Cook",
+            "nl": "Cookeilanden",
+            "hr": "Cookovo Otočje",
+            "fa": "جزایر کوک"
+        },
+        "timezones": [
+            "UTC-10:00"
+        ],
+        "region": "Oceania",
+        "subregion": "Polynesia"
+    },
+    {
+        "ISO_code": "FK",
+        "IDD_country": 500,
+        "country": "Falkland Islands (Malvinas)",
+        "nativeName": "Falkland Islands",
+        "translations": {
+            "de": "Falklandinseln",
+            "es": "Islas Malvinas",
+            "fr": "Îles Malouines",
+            "ja": "フォークランド（マルビナス）諸島",
+            "it": "Isole Falkland o Isole Malvine",
+            "br": "Ilhas Malvinas",
+            "pt": "Ilhas Falkland",
+            "nl": "Falklandeilanden [Islas Malvinas]",
+            "hr": "Falklandski Otoci",
+            "fa": "جزایر فالکلند"
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "region": "Americas",
+        "subregion": "South America"
+    },
+    {
+        "ISO_code": "FO",
+        "IDD_country": 298,
+        "country": "Faroe Islands",
+        "nativeName": "Føroyar",
+        "translations": {
+            "de": "Färöer-Inseln",
+            "es": "Islas Faroe",
+            "fr": "Îles Féroé",
+            "ja": "フェロー諸島",
+            "it": "Isole Far Oer",
+            "br": "Ilhas Faroé",
+            "pt": "Ilhas Faroé",
+            "nl": "Faeröer",
+            "hr": "Farski Otoci",
+            "fa": "جزایر فارو"
+        },
+        "timezones": [
+            "UTC+00:00"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe"
+    },
+    {
+        "ISO_code": "MP",
+        "IDD_country": "1 670",
+        "country": "Northern Mariana Islands",
+        "nativeName": "Northern Mariana Islands",
+        "translations": {
+            "de": "Nördliche Marianen",
+            "es": "Islas Marianas del Norte",
+            "fr": "Îles Mariannes du Nord",
+            "ja": "北マリアナ諸島",
+            "it": "Isole Marianne Settentrionali",
+            "br": "Ilhas Marianas",
+            "pt": "Ilhas Marianas",
+            "nl": "Noordelijke Marianeneilanden",
+            "hr": "Sjevernomarijanski otoci",
+            "fa": "جزایر ماریانای شمالی"
+        },
+        "timezones": [
+            "UTC+10:00"
+        ],
+        "region": "Oceania",
+        "subregion": "Micronesia"
+    },
+    {
+        "ISO_code": "MH",
+        "IDD_country": 692,
+        "country": "Marshall Islands",
+        "nativeName": "M̧ajeļ",
+        "translations": {
+            "de": "Marshallinseln",
+            "es": "Islas Marshall",
+            "fr": "Îles Marshall",
+            "ja": "マーシャル諸島",
+            "it": "Isole Marshall",
+            "br": "Ilhas Marshall",
+            "pt": "Ilhas Marshall",
+            "nl": "Marshalleilanden",
+            "hr": "Maršalovi Otoci",
+            "fa": "جزایر مارشال"
+        },
+        "timezones": [
+            "UTC+12:00"
+        ],
+        "region": "Oceania",
+        "subregion": "Micronesia"
+    },
+    {
+        "ISO_code": "NF",
+        "IDD_country": 672,
+        "country": "Norfolk Island",
+        "nativeName": "Norfolk Island",
+        "translations": {
+            "de": "Norfolkinsel",
+            "es": "Isla de Norfolk",
+            "fr": "Île de Norfolk",
+            "ja": "ノーフォーク島",
+            "it": "Isola Norfolk",
+            "br": "Ilha Norfolk",
+            "pt": "Ilha Norfolk",
+            "nl": "Norfolkeiland",
+            "hr": "Otok Norfolk",
+            "fa": "جزیره نورفک"
+        },
+        "timezones": [
+            "UTC+11:30"
+        ],
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand"
+    },
+    {
+        "ISO_code": "PN",
+        "IDD_country": 870,
+        "country": "Pitcairn",
+        "nativeName": "Pitcairn Islands",
+        "translations": {
+            "de": "Pitcairn",
+            "es": "Islas Pitcairn",
+            "fr": "Îles Pitcairn",
+            "ja": "ピトケアン",
+            "it": "Isole Pitcairn",
+            "br": "Ilhas Pitcairn",
+            "pt": "Ilhas Picárnia",
+            "nl": "Pitcairneilanden",
+            "hr": "Pitcairnovo otočje",
+            "fa": "پیتکرن"
+        },
+        "timezones": [
+            "UTC-08:00"
+        ],
+        "region": "Oceania",
+        "subregion": "Polynesia"
+    },
+    {
+        "ISO_code": "SB",
+        "IDD_country": 677,
+        "country": "Solomon Islands",
+        "nativeName": "Solomon Islands",
+        "translations": {
+            "de": "Salomonen",
+            "es": "Islas Salomón",
+            "fr": "Îles Salomon",
+            "ja": "ソロモン諸島",
+            "it": "Isole Salomone",
+            "br": "Ilhas Salomão",
+            "pt": "Ilhas Salomão",
+            "nl": "Salomonseilanden",
+            "hr": "Solomonski Otoci",
+            "fa": "جزایر سلیمان"
+        },
+        "timezones": [
+            "UTC+11:00"
+        ],
+        "region": "Oceania",
+        "subregion": "Melanesia"
+    },
+    {
+        "ISO_code": "TC",
+        "IDD_country": "1 649",
+        "country": "Turks and Caicos Islands",
+        "nativeName": "Turks and Caicos Islands",
+        "translations": {
+            "de": "Turks- und Caicosinseln",
+            "es": "Islas Turks y Caicos",
+            "fr": "Îles Turques-et-Caïques",
+            "ja": "タークス・カイコス諸島",
+            "it": "Isole Turks e Caicos",
+            "br": "Ilhas Turcas e Caicos",
+            "pt": "Ilhas Turcas e Caicos",
+            "nl": "Turks- en Caicoseilanden",
+            "hr": "Otoci Turks i Caicos",
+            "fa": "جزایر تورکس و کایکوس"
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean"
+    },
+    {
+        "ISO_code": "VI",
+        "IDD_country": "1 340",
+        "country": "Virgin Islands (U.S.)",
+        "nativeName": "Virgin Islands of the United States",
+        "translations": {
+            "de": "Amerikanische Jungferninseln",
+            "es": "Islas Vírgenes de los Estados Unidos",
+            "fr": "Îles Vierges des États-Unis",
+            "ja": "アメリカ領ヴァージン諸島",
+            "it": "Isole Vergini americane",
+            "br": "Ilhas Virgens Americanas",
+            "pt": "Ilhas Virgens Americanas",
+            "nl": "Verenigde Staten Maagdeneilanden",
+            "hr": null,
+            "fa": "جزایر ویرجین آمریکا"
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean"
+    },
+    {
+        "ISO_code": "VG",
+        "IDD_country": "1 284",
+        "country": "Virgin Islands (British)",
+        "nativeName": "British Virgin Islands",
+        "translations": {
+            "de": "Britische Jungferninseln",
+            "es": "Islas Vírgenes del Reino Unido",
+            "fr": "Îles Vierges britanniques",
+            "ja": "イギリス領ヴァージン諸島",
+            "it": "Isole Vergini Britanniche",
+            "br": "Ilhas Virgens Britânicas",
+            "pt": "Ilhas Virgens Britânicas",
+            "nl": "Britse Maagdeneilanden",
+            "hr": "Britanski Djevičanski Otoci",
+            "fa": "جزایر ویرجین بریتانیا"
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean"
+    },
+    {
+        "ISO_code": "IN",
+        "IDD_country": 91,
+        "country": "India",
+        "nativeName": "भारत",
+        "translations": {
+            "de": "Indien",
+            "es": "India",
+            "fr": "Inde",
+            "ja": "インド",
+            "it": "India",
+            "br": "Índia",
+            "pt": "Índia",
+            "nl": "India",
+            "hr": "Indija",
+            "fa": "هند"
+        },
+        "timezones": [
+            "UTC+05:30"
+        ],
+        "region": "Asia",
+        "subregion": "Southern Asia"
+    },
+    {
+        "ISO_code": "ID",
+        "IDD_country": 62,
+        "country": "Indonesia",
+        "nativeName": "Indonesia",
+        "translations": {
+            "de": "Indonesien",
+            "es": "Indonesia",
+            "fr": "Indonésie",
+            "ja": "インドネシア",
+            "it": "Indonesia",
+            "br": "Indonésia",
+            "pt": "Indonésia",
+            "nl": "Indonesië",
+            "hr": "Indonezija",
+            "fa": "اندونزی"
+        },
+        "timezones": [
+            "UTC+07:00",
+            "UTC+08:00",
+            "UTC+09:00"
+        ],
+        "region": "Asia",
+        "subregion": "South-Eastern Asia"
+    },
+    {
+        "ISO_code": "GB",
+        "IDD_country": 44,
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "nativeName": "United Kingdom",
+        "translations": {
+            "de": "Vereinigtes Königreich",
+            "es": "Reino Unido",
+            "fr": "Royaume-Uni",
+            "ja": "イギリス",
+            "it": "Regno Unito",
+            "br": "Reino Unido",
+            "pt": "Reino Unido",
+            "nl": "Verenigd Koninkrijk",
+            "hr": "Ujedinjeno Kraljevstvo",
+            "fa": "بریتانیای کبیر و ایرلند شمالی"
+        },
+        "timezones": [
+            "UTC-08:00",
+            "UTC-05:00",
+            "UTC-04:00",
+            "UTC-03:00",
+            "UTC-02:00",
+            "UTC",
+            "UTC+01:00",
+            "UTC+02:00",
+            "UTC+06:00"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe"
+    },
+    {
+        "ISO_code": "IR",
+        "IDD_country": 98,
+        "country": "Iran (Islamic Republic of)",
+        "nativeName": "ایران",
+        "translations": {
+            "de": "Iran",
+            "es": "Iran",
+            "fr": "Iran",
+            "ja": "イラン・イスラム共和国",
+            "it": null,
+            "br": "Irã",
+            "pt": "Irão",
+            "nl": "Iran",
+            "hr": "Iran",
+            "fa": "ایران"
+        },
+        "timezones": [
+            "UTC+03:30"
+        ],
+        "region": "Asia",
+        "subregion": "Southern Asia"
+    },
+    {
+        "ISO_code": "IQ",
+        "IDD_country": 964,
+        "country": "Iraq",
+        "nativeName": "العراق",
+        "translations": {
+            "de": "Irak",
+            "es": "Irak",
+            "fr": "Irak",
+            "ja": "イラク",
+            "it": "Iraq",
+            "br": "Iraque",
+            "pt": "Iraque",
+            "nl": "Irak",
+            "hr": "Irak",
+            "fa": "عراق"
+        },
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia"
+    },
+    {
+        "ISO_code": "IE",
+        "IDD_country": 353,
+        "country": "Ireland",
+        "nativeName": "Éire",
+        "translations": {
+            "de": "Irland",
+            "es": "Irlanda",
+            "fr": "Irlande",
+            "ja": "アイルランド",
+            "it": "Irlanda",
+            "br": "Irlanda",
+            "pt": "Irlanda",
+            "nl": "Ierland",
+            "hr": "Irska",
+            "fa": "ایرلند"
+        },
+        "timezones": [
+            "UTC"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe"
+    },
+    {
+        "ISO_code": "IL",
+        "IDD_country": 972,
+        "country": "Israel",
+        "nativeName": "יִשְׂרָאֵל",
+        "translations": {
+            "de": "Israel",
+            "es": "Israel",
+            "fr": "Israël",
+            "ja": "イスラエル",
+            "it": "Israele",
+            "br": "Israel",
+            "pt": "Israel",
+            "nl": "Israël",
+            "hr": "Izrael",
+            "fa": "اسرائیل"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia"
+    },
+    {
+        "ISO_code": "IT",
+        "IDD_country": 39,
+        "country": "Italy",
+        "nativeName": "Italia",
+        "translations": {
+            "de": "Italien",
+            "es": "Italia",
+            "fr": "Italie",
+            "ja": "イタリア",
+            "it": "Italia",
+            "br": "Itália",
+            "pt": "Itália",
+            "nl": "Italië",
+            "hr": "Italija",
+            "fa": "ایتالیا"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe"
+    },
+    {
+        "ISO_code": "JM",
+        "IDD_country": "1 876",
+        "country": "Jamaica",
+        "nativeName": "Jamaica",
+        "translations": {
+            "de": "Jamaika",
+            "es": "Jamaica",
+            "fr": "Jamaïque",
+            "ja": "ジャマイカ",
+            "it": "Giamaica",
+            "br": "Jamaica",
+            "pt": "Jamaica",
+            "nl": "Jamaica",
+            "hr": "Jamajka",
+            "fa": "جامائیکا"
+        },
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean"
+    },
+    {
+        "ISO_code": "JP",
+        "IDD_country": 81,
+        "country": "Japan",
+        "nativeName": "日本",
+        "translations": {
+            "de": "Japan",
+            "es": "Japón",
+            "fr": "Japon",
+            "ja": "日本",
+            "it": "Giappone",
+            "br": "Japão",
+            "pt": "Japão",
+            "nl": "Japan",
+            "hr": "Japan",
+            "fa": "ژاپن"
+        },
+        "timezones": [
+            "UTC+09:00"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia"
+    },
+    {
+        "ISO_code": "JE",
+        "IDD_country": "",
+        "country": "Jersey",
+        "nativeName": "Jersey",
+        "translations": {
+            "de": "Jersey",
+            "es": "Jersey",
+            "fr": "Jersey",
+            "ja": "ジャージー",
+            "it": "Isola di Jersey",
+            "br": "Jersey",
+            "pt": "Jersey",
+            "nl": "Jersey",
+            "hr": "Jersey",
+            "fa": "جرزی"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe"
+    },
+    {
+        "ISO_code": "JO",
+        "IDD_country": 962,
+        "country": "Jordan",
+        "nativeName": "الأردن",
+        "translations": {
+            "de": "Jordanien",
+            "es": "Jordania",
+            "fr": "Jordanie",
+            "ja": "ヨルダン",
+            "it": "Giordania",
+            "br": "Jordânia",
+            "pt": "Jordânia",
+            "nl": "Jordanië",
+            "hr": "Jordan",
+            "fa": "اردن"
+        },
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia"
+    },
+    {
+        "ISO_code": "KZ",
+        "IDD_country": 7,
+        "country": "Kazakhstan",
+        "nativeName": "Қазақстан",
+        "translations": {
+            "de": "Kasachstan",
+            "es": "Kazajistán",
+            "fr": "Kazakhstan",
+            "ja": "カザフスタン",
+            "it": "Kazakistan",
+            "br": "Cazaquistão",
+            "pt": "Cazaquistão",
+            "nl": "Kazachstan",
+            "hr": "Kazahstan",
+            "fa": "قزاقستان"
+        },
+        "timezones": [
+            "UTC+05:00",
+            "UTC+06:00"
+        ],
+        "region": "Asia",
+        "subregion": "Central Asia"
+    },
+    {
+        "ISO_code": "KE",
+        "IDD_country": 254,
+        "country": "Kenya",
+        "nativeName": "Kenya",
+        "translations": {
+            "de": "Kenia",
+            "es": "Kenia",
+            "fr": "Kenya",
+            "ja": "ケニア",
+            "it": "Kenya",
+            "br": "Quênia",
+            "pt": "Quénia",
+            "nl": "Kenia",
+            "hr": "Kenija",
+            "fa": "کنیا"
+        },
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa"
+    },
+    {
+        "ISO_code": "KI",
+        "IDD_country": 686,
+        "country": "Kiribati",
+        "nativeName": "Kiribati",
+        "translations": {
+            "de": "Kiribati",
+            "es": "Kiribati",
+            "fr": "Kiribati",
+            "ja": "キリバス",
+            "it": "Kiribati",
+            "br": "Kiribati",
+            "pt": "Quiribáti",
+            "nl": "Kiribati",
+            "hr": "Kiribati",
+            "fa": "کیریباتی"
+        },
+        "timezones": [
+            "UTC+12:00",
+            "UTC+13:00",
+            "UTC+14:00"
+        ],
+        "region": "Oceania",
+        "subregion": "Micronesia"
+    },
+    {
+        "ISO_code": "XK",
+        "IDD_country": 381,
+        "country": "Republic of Kosovo",
+        "nativeName": "Republika e Kosovës",
+        "translations": {
+            "de": null,
+            "es": "Kosovo",
+            "fr": null,
+            "ja": null,
+            "it": null,
+            "br": "Kosovo",
+            "pt": "Kosovo",
+            "nl": null,
+            "hr": "Kosovo",
+            "fa": "کوزوو"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe"
+    },
+    {
+        "ISO_code": "KW",
+        "IDD_country": 965,
+        "country": "Kuwait",
+        "nativeName": "الكويت",
+        "translations": {
+            "de": "Kuwait",
+            "es": "Kuwait",
+            "fr": "Koweït",
+            "ja": "クウェート",
+            "it": "Kuwait",
+            "br": "Kuwait",
+            "pt": "Kuwait",
+            "nl": "Koeweit",
+            "hr": "Kuvajt",
+            "fa": "کویت"
+        },
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia"
+    },
+    {
+        "ISO_code": "KG",
+        "IDD_country": 996,
+        "country": "Kyrgyzstan",
+        "nativeName": "Кыргызстан",
+        "translations": {
+            "de": "Kirgisistan",
+            "es": "Kirguizistán",
+            "fr": "Kirghizistan",
+            "ja": "キルギス",
+            "it": "Kirghizistan",
+            "br": "Quirguistão",
+            "pt": "Quirguizistão",
+            "nl": "Kirgizië",
+            "hr": "Kirgistan",
+            "fa": "قرقیزستان"
+        },
+        "timezones": [
+            "UTC+06:00"
+        ],
+        "region": "Asia",
+        "subregion": "Central Asia"
+    },
+    {
+        "ISO_code": "LA",
+        "IDD_country": 856,
+        "country": "Lao People's Democratic Republic",
+        "nativeName": "ສປປລາວ",
+        "translations": {
+            "de": "Laos",
+            "es": "Laos",
+            "fr": "Laos",
+            "ja": "ラオス人民民主共和国",
+            "it": "Laos",
+            "br": "Laos",
+            "pt": "Laos",
+            "nl": "Laos",
+            "hr": "Laos",
+            "fa": "لائوس"
+        },
+        "timezones": [
+            "UTC+07:00"
+        ],
+        "region": "Asia",
+        "subregion": "South-Eastern Asia"
+    },
+    {
+        "ISO_code": "LV",
+        "IDD_country": 371,
+        "country": "Latvia",
+        "nativeName": "Latvija",
+        "translations": {
+            "de": "Lettland",
+            "es": "Letonia",
+            "fr": "Lettonie",
+            "ja": "ラトビア",
+            "it": "Lettonia",
+            "br": "Letônia",
+            "pt": "Letónia",
+            "nl": "Letland",
+            "hr": "Latvija",
+            "fa": "لتونی"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe"
+    },
+    {
+        "ISO_code": "LB",
+        "IDD_country": 961,
+        "country": "Lebanon",
+        "nativeName": "لبنان",
+        "translations": {
+            "de": "Libanon",
+            "es": "Líbano",
+            "fr": "Liban",
+            "ja": "レバノン",
+            "it": "Libano",
+            "br": "Líbano",
+            "pt": "Líbano",
+            "nl": "Libanon",
+            "hr": "Libanon",
+            "fa": "لبنان"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia"
+    },
+    {
+        "ISO_code": "LS",
+        "IDD_country": 266,
+        "country": "Lesotho",
+        "nativeName": "Lesotho",
+        "translations": {
+            "de": "Lesotho",
+            "es": "Lesotho",
+            "fr": "Lesotho",
+            "ja": "レソト",
+            "it": "Lesotho",
+            "br": "Lesoto",
+            "pt": "Lesoto",
+            "nl": "Lesotho",
+            "hr": "Lesoto",
+            "fa": "لسوتو"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "region": "Africa",
+        "subregion": "Southern Africa"
+    },
+    {
+        "ISO_code": "LR",
+        "IDD_country": 231,
+        "country": "Liberia",
+        "nativeName": "Liberia",
+        "translations": {
+            "de": "Liberia",
+            "es": "Liberia",
+            "fr": "Liberia",
+            "ja": "リベリア",
+            "it": "Liberia",
+            "br": "Libéria",
+            "pt": "Libéria",
+            "nl": "Liberia",
+            "hr": "Liberija",
+            "fa": "لیبریا"
+        },
+        "timezones": [
+            "UTC"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa"
+    },
+    {
+        "ISO_code": "LY",
+        "IDD_country": 218,
+        "country": "Libya",
+        "nativeName": "‏ليبيا",
+        "translations": {
+            "de": "Libyen",
+            "es": "Libia",
+            "fr": "Libye",
+            "ja": "リビア",
+            "it": "Libia",
+            "br": "Líbia",
+            "pt": "Líbia",
+            "nl": "Libië",
+            "hr": "Libija",
+            "fa": "لیبی"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Africa",
+        "subregion": "Northern Africa"
+    },
+    {
+        "ISO_code": "LI",
+        "IDD_country": 423,
+        "country": "Liechtenstein",
+        "nativeName": "Liechtenstein",
+        "translations": {
+            "de": "Liechtenstein",
+            "es": "Liechtenstein",
+            "fr": "Liechtenstein",
+            "ja": "リヒテンシュタイン",
+            "it": "Liechtenstein",
+            "br": "Liechtenstein",
+            "pt": "Listenstaine",
+            "nl": "Liechtenstein",
+            "hr": "Lihtenštajn",
+            "fa": "لیختن‌اشتاین"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Europe",
+        "subregion": "Western Europe"
+    },
+    {
+        "ISO_code": "LT",
+        "IDD_country": 370,
+        "country": "Lithuania",
+        "nativeName": "Lietuva",
+        "translations": {
+            "de": "Litauen",
+            "es": "Lituania",
+            "fr": "Lituanie",
+            "ja": "リトアニア",
+            "it": "Lituania",
+            "br": "Lituânia",
+            "pt": "Lituânia",
+            "nl": "Litouwen",
+            "hr": "Litva",
+            "fa": "لیتوانی"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe"
+    },
+    {
+        "ISO_code": "LU",
+        "IDD_country": 352,
+        "country": "Luxembourg",
+        "nativeName": "Luxembourg",
+        "translations": {
+            "de": "Luxemburg",
+            "es": "Luxemburgo",
+            "fr": "Luxembourg",
+            "ja": "ルクセンブルク",
+            "it": "Lussemburgo",
+            "br": "Luxemburgo",
+            "pt": "Luxemburgo",
+            "nl": "Luxemburg",
+            "hr": "Luksemburg",
+            "fa": "لوکزامبورگ"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Europe",
+        "subregion": "Western Europe"
+    },
+    {
+        "ISO_code": "MO",
+        "IDD_country": 853,
+        "country": "Macao",
+        "nativeName": "澳門",
+        "translations": {
+            "de": "Macao",
+            "es": "Macao",
+            "fr": "Macao",
+            "ja": "マカオ",
+            "it": "Macao",
+            "br": "Macau",
+            "pt": "Macau",
+            "nl": "Macao",
+            "hr": "Makao",
+            "fa": "مکائو"
+        },
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia"
+    },
+    {
+        "ISO_code": "MK",
+        "IDD_country": 389,
+        "country": "Macedonia (the former Yugoslav Republic of)",
+        "nativeName": "Македонија",
+        "translations": {
+            "de": "Mazedonien",
+            "es": "Macedonia",
+            "fr": "Macédoine",
+            "ja": "マケドニア旧ユーゴスラビア共和国",
+            "it": "Macedonia",
+            "br": "Macedônia",
+            "pt": "Macedónia",
+            "nl": "Macedonië",
+            "hr": "Makedonija",
+            "fa": ""
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe"
+    },
+    {
+        "ISO_code": "MG",
+        "IDD_country": 261,
+        "country": "Madagascar",
+        "nativeName": "Madagasikara",
+        "translations": {
+            "de": "Madagaskar",
+            "es": "Madagascar",
+            "fr": "Madagascar",
+            "ja": "マダガスカル",
+            "it": "Madagascar",
+            "br": "Madagascar",
+            "pt": "Madagáscar",
+            "nl": "Madagaskar",
+            "hr": "Madagaskar",
+            "fa": "ماداگاسکار"
+        },
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa"
+    },
+    {
+        "ISO_code": "MW",
+        "IDD_country": 265,
+        "country": "Malawi",
+        "nativeName": "Malawi",
+        "translations": {
+            "de": "Malawi",
+            "es": "Malawi",
+            "fr": "Malawi",
+            "ja": "マラウイ",
+            "it": "Malawi",
+            "br": "Malawi",
+            "pt": "Malávi",
+            "nl": "Malawi",
+            "hr": "Malavi",
+            "fa": "مالاوی"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa"
+    },
+    {
+        "ISO_code": "MY",
+        "IDD_country": 60,
+        "country": "Malaysia",
+        "nativeName": "Malaysia",
+        "translations": {
+            "de": "Malaysia",
+            "es": "Malasia",
+            "fr": "Malaisie",
+            "ja": "マレーシア",
+            "it": "Malesia",
+            "br": "Malásia",
+            "pt": "Malásia",
+            "nl": "Maleisië",
+            "hr": "Malezija",
+            "fa": "مالزی"
+        },
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "region": "Asia",
+        "subregion": "South-Eastern Asia"
+    },
+    {
+        "ISO_code": "MV",
+        "IDD_country": 960,
+        "country": "Maldives",
+        "nativeName": "Maldives",
+        "translations": {
+            "de": "Malediven",
+            "es": "Maldivas",
+            "fr": "Maldives",
+            "ja": "モルディブ",
+            "it": "Maldive",
+            "br": "Maldivas",
+            "pt": "Maldivas",
+            "nl": "Maldiven",
+            "hr": "Maldivi",
+            "fa": "مالدیو"
+        },
+        "timezones": [
+            "UTC+05:00"
+        ],
+        "region": "Asia",
+        "subregion": "Southern Asia"
+    },
+    {
+        "ISO_code": "ML",
+        "IDD_country": 223,
+        "country": "Mali",
+        "nativeName": "Mali",
+        "translations": {
+            "de": "Mali",
+            "es": "Mali",
+            "fr": "Mali",
+            "ja": "マリ",
+            "it": "Mali",
+            "br": "Mali",
+            "pt": "Mali",
+            "nl": "Mali",
+            "hr": "Mali",
+            "fa": "مالی"
+        },
+        "timezones": [
+            "UTC"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa"
+    },
+    {
+        "ISO_code": "MT",
+        "IDD_country": 356,
+        "country": "Malta",
+        "nativeName": "Malta",
+        "translations": {
+            "de": "Malta",
+            "es": "Malta",
+            "fr": "Malte",
+            "ja": "マルタ",
+            "it": "Malta",
+            "br": "Malta",
+            "pt": "Malta",
+            "nl": "Malta",
+            "hr": "Malta",
+            "fa": "مالت"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe"
+    },
+    {
+        "ISO_code": "MR",
+        "IDD_country": 222,
+        "country": "Mauritania",
+        "nativeName": "موريتانيا",
+        "translations": {
+            "de": "Mauretanien",
+            "es": "Mauritania",
+            "fr": "Mauritanie",
+            "ja": "モーリタニア",
+            "it": "Mauritania",
+            "br": "Mauritânia",
+            "pt": "Mauritânia",
+            "nl": "Mauritanië",
+            "hr": "Mauritanija",
+            "fa": "موریتانی"
+        },
+        "timezones": [
+            "UTC"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa"
+    },
+    {
+        "ISO_code": "MU",
+        "IDD_country": 230,
+        "country": "Mauritius",
+        "nativeName": "Maurice",
+        "translations": {
+            "de": "Mauritius",
+            "es": "Mauricio",
+            "fr": "Île Maurice",
+            "ja": "モーリシャス",
+            "it": "Mauritius",
+            "br": "Maurício",
+            "pt": "Maurícia",
+            "nl": "Mauritius",
+            "hr": "Mauricijus",
+            "fa": "موریس"
+        },
+        "timezones": [
+            "UTC+04:00"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa"
+    },
+    {
+        "ISO_code": "YT",
+        "IDD_country": 262,
+        "country": "Mayotte",
+        "nativeName": "Mayotte",
+        "translations": {
+            "de": "Mayotte",
+            "es": "Mayotte",
+            "fr": "Mayotte",
+            "ja": "マヨット",
+            "it": "Mayotte",
+            "br": "Mayotte",
+            "pt": "Mayotte",
+            "nl": "Mayotte",
+            "hr": "Mayotte",
+            "fa": "مایوت"
+        },
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa"
+    },
+    {
+        "ISO_code": "MX",
+        "IDD_country": 52,
+        "country": "Mexico",
+        "nativeName": "México",
+        "translations": {
+            "de": "Mexiko",
+            "es": "México",
+            "fr": "Mexique",
+            "ja": "メキシコ",
+            "it": "Messico",
+            "br": "México",
+            "pt": "México",
+            "nl": "Mexico",
+            "hr": "Meksiko",
+            "fa": "مکزیک"
+        },
+        "timezones": [
+            "UTC-08:00",
+            "UTC-07:00",
+            "UTC-06:00"
+        ],
+        "region": "Americas",
+        "subregion": "Central America"
+    },
+    {
+        "ISO_code": "FM",
+        "IDD_country": 691,
+        "country": "Micronesia (Federated States of)",
+        "nativeName": "Micronesia",
+        "translations": {
+            "de": "Mikronesien",
+            "es": "Micronesia",
+            "fr": "Micronésie",
+            "ja": "ミクロネシア連邦",
+            "it": "Micronesia",
+            "br": "Micronésia",
+            "pt": "Micronésia",
+            "nl": "Micronesië",
+            "hr": "Mikronezija",
+            "fa": "ایالات فدرال میکرونزی"
+        },
+        "timezones": [
+            "UTC+10:00",
+            "UTC+11"
+        ],
+        "region": "Oceania",
+        "subregion": "Micronesia"
+    },
+    {
+        "ISO_code": "MD",
+        "IDD_country": 373,
+        "country": "Moldova (Republic of)",
+        "nativeName": "Moldova",
+        "translations": {
+            "de": "Moldawie",
+            "es": "Moldavia",
+            "fr": "Moldavie",
+            "ja": "モルドバ共和国",
+            "it": "Moldavia",
+            "br": "Moldávia",
+            "pt": "Moldávia",
+            "nl": "Moldavië",
+            "hr": "Moldova",
+            "fa": "مولداوی"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe"
+    },
+    {
+        "ISO_code": "MC",
+        "IDD_country": 377,
+        "country": "Monaco",
+        "nativeName": "Monaco",
+        "translations": {
+            "de": "Monaco",
+            "es": "Mónaco",
+            "fr": "Monaco",
+            "ja": "モナコ",
+            "it": "Principato di Monaco",
+            "br": "Mônaco",
+            "pt": "Mónaco",
+            "nl": "Monaco",
+            "hr": "Monako",
+            "fa": "موناکو"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Europe",
+        "subregion": "Western Europe"
+    },
+    {
+        "ISO_code": "MN",
+        "IDD_country": 976,
+        "country": "Mongolia",
+        "nativeName": "Монгол улс",
+        "translations": {
+            "de": "Mongolei",
+            "es": "Mongolia",
+            "fr": "Mongolie",
+            "ja": "モンゴル",
+            "it": "Mongolia",
+            "br": "Mongólia",
+            "pt": "Mongólia",
+            "nl": "Mongolië",
+            "hr": "Mongolija",
+            "fa": "مغولستان"
+        },
+        "timezones": [
+            "UTC+07:00",
+            "UTC+08:00"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia"
+    },
+    {
+        "ISO_code": "ME",
+        "IDD_country": 382,
+        "country": "Montenegro",
+        "nativeName": "Црна Гора",
+        "translations": {
+            "de": "Montenegro",
+            "es": "Montenegro",
+            "fr": "Monténégro",
+            "ja": "モンテネグロ",
+            "it": "Montenegro",
+            "br": "Montenegro",
+            "pt": "Montenegro",
+            "nl": "Montenegro",
+            "hr": "Crna Gora",
+            "fa": "مونته‌نگرو"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe"
+    },
+    {
+        "ISO_code": "MS",
+        "IDD_country": "1 664",
+        "country": "Montserrat",
+        "nativeName": "Montserrat",
+        "translations": {
+            "de": "Montserrat",
+            "es": "Montserrat",
+            "fr": "Montserrat",
+            "ja": "モントセラト",
+            "it": "Montserrat",
+            "br": "Montserrat",
+            "pt": "Monserrate",
+            "nl": "Montserrat",
+            "hr": "Montserrat",
+            "fa": "مایوت"
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean"
+    },
+    {
+        "ISO_code": "MA",
+        "IDD_country": 212,
+        "country": "Morocco",
+        "nativeName": "المغرب",
+        "translations": {
+            "de": "Marokko",
+            "es": "Marruecos",
+            "fr": "Maroc",
+            "ja": "モロッコ",
+            "it": "Marocco",
+            "br": "Marrocos",
+            "pt": "Marrocos",
+            "nl": "Marokko",
+            "hr": "Maroko",
+            "fa": "مراکش"
+        },
+        "timezones": [
+            "UTC"
+        ],
+        "region": "Africa",
+        "subregion": "Northern Africa"
+    },
+    {
+        "ISO_code": "MZ",
+        "IDD_country": 258,
+        "country": "Mozambique",
+        "nativeName": "Moçambique",
+        "translations": {
+            "de": "Mosambik",
+            "es": "Mozambique",
+            "fr": "Mozambique",
+            "ja": "モザンビーク",
+            "it": "Mozambico",
+            "br": "Moçambique",
+            "pt": "Moçambique",
+            "nl": "Mozambique",
+            "hr": "Mozambik",
+            "fa": "موزامبیک"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa"
+    },
+    {
+        "ISO_code": "NA",
+        "IDD_country": 264,
+        "country": "Namibia",
+        "nativeName": "Namibia",
+        "translations": {
+            "de": "Namibia",
+            "es": "Namibia",
+            "fr": "Namibie",
+            "ja": "ナミビア",
+            "it": "Namibia",
+            "br": "Namíbia",
+            "pt": "Namíbia",
+            "nl": "Namibië",
+            "hr": "Namibija",
+            "fa": "نامیبیا"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Africa",
+        "subregion": "Southern Africa"
+    },
+    {
+        "ISO_code": "NR",
+        "IDD_country": 674,
+        "country": "Nauru",
+        "nativeName": "Nauru",
+        "translations": {
+            "de": "Nauru",
+            "es": "Nauru",
+            "fr": "Nauru",
+            "ja": "ナウル",
+            "it": "Nauru",
+            "br": "Nauru",
+            "pt": "Nauru",
+            "nl": "Nauru",
+            "hr": "Nauru",
+            "fa": "نائورو"
+        },
+        "timezones": [
+            "UTC+12:00"
+        ],
+        "region": "Oceania",
+        "subregion": "Micronesia"
+    },
+    {
+        "ISO_code": "NP",
+        "IDD_country": 977,
+        "country": "Nepal",
+        "nativeName": "नेपाल",
+        "translations": {
+            "de": "Népal",
+            "es": "Nepal",
+            "fr": "Népal",
+            "ja": "ネパール",
+            "it": "Nepal",
+            "br": "Nepal",
+            "pt": "Nepal",
+            "nl": "Nepal",
+            "hr": "Nepal",
+            "fa": "نپال"
+        },
+        "timezones": [
+            "UTC+05:45"
+        ],
+        "region": "Asia",
+        "subregion": "Southern Asia"
+    },
+    {
+        "ISO_code": "NC",
+        "IDD_country": 687,
+        "country": "New Caledonia",
+        "nativeName": "Nouvelle-Calédonie",
+        "translations": {
+            "de": "Neukaledonien",
+            "es": "Nueva Caledonia",
+            "fr": "Nouvelle-Calédonie",
+            "ja": "ニューカレドニア",
+            "it": "Nuova Caledonia",
+            "br": "Nova Caledônia",
+            "pt": "Nova Caledónia",
+            "nl": "Nieuw-Caledonië",
+            "hr": "Nova Kaledonija",
+            "fa": "کالدونیای جدید"
+        },
+        "timezones": [
+            "UTC+11:00"
+        ],
+        "region": "Oceania",
+        "subregion": "Melanesia"
+    },
+    {
+        "ISO_code": "NZ",
+        "IDD_country": 64,
+        "country": "New Zealand",
+        "nativeName": "New Zealand",
+        "translations": {
+            "de": "Neuseeland",
+            "es": "Nueva Zelanda",
+            "fr": "Nouvelle-Zélande",
+            "ja": "ニュージーランド",
+            "it": "Nuova Zelanda",
+            "br": "Nova Zelândia",
+            "pt": "Nova Zelândia",
+            "nl": "Nieuw-Zeeland",
+            "hr": "Novi Zeland",
+            "fa": "نیوزیلند"
+        },
+        "timezones": [
+            "UTC-11:00",
+            "UTC-10:00",
+            "UTC+12:00",
+            "UTC+12:45",
+            "UTC+13:00"
+        ],
+        "region": "Oceania",
+        "subregion": "Australia and New Zealand"
+    },
+    {
+        "ISO_code": "NI",
+        "IDD_country": 505,
+        "country": "Nicaragua",
+        "nativeName": "Nicaragua",
+        "translations": {
+            "de": "Nicaragua",
+            "es": "Nicaragua",
+            "fr": "Nicaragua",
+            "ja": "ニカラグア",
+            "it": "Nicaragua",
+            "br": "Nicarágua",
+            "pt": "Nicarágua",
+            "nl": "Nicaragua",
+            "hr": "Nikaragva",
+            "fa": "نیکاراگوئه"
+        },
+        "timezones": [
+            "UTC-06:00"
+        ],
+        "region": "Americas",
+        "subregion": "Central America"
+    },
+    {
+        "ISO_code": "NE",
+        "IDD_country": 227,
+        "country": "Niger",
+        "nativeName": "Niger",
+        "translations": {
+            "de": "Niger",
+            "es": "Níger",
+            "fr": "Niger",
+            "ja": "ニジェール",
+            "it": "Niger",
+            "br": "Níger",
+            "pt": "Níger",
+            "nl": "Niger",
+            "hr": "Niger",
+            "fa": "نیجر"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa"
+    },
+    {
+        "ISO_code": "NG",
+        "IDD_country": 234,
+        "country": "Nigeria",
+        "nativeName": "Nigeria",
+        "translations": {
+            "de": "Nigeria",
+            "es": "Nigeria",
+            "fr": "Nigéria",
+            "ja": "ナイジェリア",
+            "it": "Nigeria",
+            "br": "Nigéria",
+            "pt": "Nigéria",
+            "nl": "Nigeria",
+            "hr": "Nigerija",
+            "fa": "نیجریه"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa"
+    },
+    {
+        "ISO_code": "NU",
+        "IDD_country": 683,
+        "country": "Niue",
+        "nativeName": "Niuē",
+        "translations": {
+            "de": "Niue",
+            "es": "Niue",
+            "fr": "Niue",
+            "ja": "ニウエ",
+            "it": "Niue",
+            "br": "Niue",
+            "pt": "Niue",
+            "nl": "Niue",
+            "hr": "Niue",
+            "fa": "نیووی"
+        },
+        "timezones": [
+            "UTC-11:00"
+        ],
+        "region": "Oceania",
+        "subregion": "Polynesia"
+    },
+    {
+        "ISO_code": "NO",
+        "IDD_country": 47,
+        "country": "Norway",
+        "nativeName": "Norge",
+        "translations": {
+            "de": "Norwegen",
+            "es": "Noruega",
+            "fr": "Norvège",
+            "ja": "ノルウェー",
+            "it": "Norvegia",
+            "br": "Noruega",
+            "pt": "Noruega",
+            "nl": "Noorwegen",
+            "hr": "Norveška",
+            "fa": "نروژ"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe"
+    },
+    {
+        "ISO_code": "OM",
+        "IDD_country": 968,
+        "country": "Oman",
+        "nativeName": "عمان",
+        "translations": {
+            "de": "Oman",
+            "es": "Omán",
+            "fr": "Oman",
+            "ja": "オマーン",
+            "it": "oman",
+            "br": "Omã",
+            "pt": "Omã",
+            "nl": "Oman",
+            "hr": "Oman",
+            "fa": "عمان"
+        },
+        "timezones": [
+            "UTC+04:00"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia"
+    },
+    {
+        "ISO_code": "NL",
+        "IDD_country": 31,
+        "country": "Netherlands",
+        "nativeName": "Nederland",
+        "translations": {
+            "de": "Niederlande",
+            "es": "Países Bajos",
+            "fr": "Pays-Bas",
+            "ja": "オランダ",
+            "it": "Paesi Bassi",
+            "br": "Holanda",
+            "pt": "Países Baixos",
+            "nl": "Nederland",
+            "hr": "Nizozemska",
+            "fa": "پادشاهی هلند"
+        },
+        "timezones": [
+            "UTC-04:00",
+            "UTC+01:00"
+        ],
+        "region": "Europe",
+        "subregion": "Western Europe"
+    },
+    {
+        "ISO_code": "PK",
+        "IDD_country": 92,
+        "country": "Pakistan",
+        "nativeName": "Pakistan",
+        "translations": {
+            "de": "Pakistan",
+            "es": "Pakistán",
+            "fr": "Pakistan",
+            "ja": "パキスタン",
+            "it": "Pakistan",
+            "br": "Paquistão",
+            "pt": "Paquistão",
+            "nl": "Pakistan",
+            "hr": "Pakistan",
+            "fa": "پاکستان"
+        },
+        "timezones": [
+            "UTC+05:00"
+        ],
+        "region": "Asia",
+        "subregion": "Southern Asia"
+    },
+    {
+        "ISO_code": "PW",
+        "IDD_country": 680,
+        "country": "Palau",
+        "nativeName": "Palau",
+        "translations": {
+            "de": "Palau",
+            "es": "Palau",
+            "fr": "Palaos",
+            "ja": "パラオ",
+            "it": "Palau",
+            "br": "Palau",
+            "pt": "Palau",
+            "nl": "Palau",
+            "hr": "Palau",
+            "fa": "پالائو"
+        },
+        "timezones": [
+            "UTC+09:00"
+        ],
+        "region": "Oceania",
+        "subregion": "Micronesia"
+    },
+    {
+        "ISO_code": "PA",
+        "IDD_country": 507,
+        "country": "Panama",
+        "nativeName": "Panamá",
+        "translations": {
+            "de": "Panama",
+            "es": "Panamá",
+            "fr": "Panama",
+            "ja": "パナマ",
+            "it": "Panama",
+            "br": "Panamá",
+            "pt": "Panamá",
+            "nl": "Panama",
+            "hr": "Panama",
+            "fa": "پاناما"
+        },
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "region": "Americas",
+        "subregion": "Central America"
+    },
+    {
+        "ISO_code": "PG",
+        "IDD_country": 675,
+        "country": "Papua New Guinea",
+        "nativeName": "Papua Niugini",
+        "translations": {
+            "de": "Papua-Neuguinea",
+            "es": "Papúa Nueva Guinea",
+            "fr": "Papouasie-Nouvelle-Guinée",
+            "ja": "パプアニューギニア",
+            "it": "Papua Nuova Guinea",
+            "br": "Papua Nova Guiné",
+            "pt": "Papua Nova Guiné",
+            "nl": "Papoea-Nieuw-Guinea",
+            "hr": "Papua Nova Gvineja",
+            "fa": "پاپوآ گینه نو"
+        },
+        "timezones": [
+            "UTC+10:00"
+        ],
+        "region": "Oceania",
+        "subregion": "Melanesia"
+    },
+    {
+        "ISO_code": "PY",
+        "IDD_country": 595,
+        "country": "Paraguay",
+        "nativeName": "Paraguay",
+        "translations": {
+            "de": "Paraguay",
+            "es": "Paraguay",
+            "fr": "Paraguay",
+            "ja": "パラグアイ",
+            "it": "Paraguay",
+            "br": "Paraguai",
+            "pt": "Paraguai",
+            "nl": "Paraguay",
+            "hr": "Paragvaj",
+            "fa": "پاراگوئه"
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "region": "Americas",
+        "subregion": "South America"
+    },
+    {
+        "ISO_code": "PE",
+        "IDD_country": 51,
+        "country": "Peru",
+        "nativeName": "Perú",
+        "translations": {
+            "de": "Peru",
+            "es": "Perú",
+            "fr": "Pérou",
+            "ja": "ペルー",
+            "it": "Perù",
+            "br": "Peru",
+            "pt": "Peru",
+            "nl": "Peru",
+            "hr": "Peru",
+            "fa": "پرو"
+        },
+        "timezones": [
+            "UTC-05:00"
+        ],
+        "region": "Americas",
+        "subregion": "South America"
+    },
+    {
+        "ISO_code": "PH",
+        "IDD_country": 63,
+        "country": "Philippines",
+        "nativeName": "Pilipinas",
+        "translations": {
+            "de": "Philippinen",
+            "es": "Filipinas",
+            "fr": "Philippines",
+            "ja": "フィリピン",
+            "it": "Filippine",
+            "br": "Filipinas",
+            "pt": "Filipinas",
+            "nl": "Filipijnen",
+            "hr": "Filipini",
+            "fa": "جزایر الندفیلیپین"
+        },
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "region": "Asia",
+        "subregion": "South-Eastern Asia"
+    },
+    {
+        "ISO_code": "PL",
+        "IDD_country": 48,
+        "country": "Poland",
+        "nativeName": "Polska",
+        "translations": {
+            "de": "Polen",
+            "es": "Polonia",
+            "fr": "Pologne",
+            "ja": "ポーランド",
+            "it": "Polonia",
+            "br": "Polônia",
+            "pt": "Polónia",
+            "nl": "Polen",
+            "hr": "Poljska",
+            "fa": "لهستان"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe"
+    },
+    {
+        "ISO_code": "PF",
+        "IDD_country": 689,
+        "country": "French Polynesia",
+        "nativeName": "Polynésie française",
+        "translations": {
+            "de": "Französisch-Polynesien",
+            "es": "Polinesia Francesa",
+            "fr": "Polynésie française",
+            "ja": "フランス領ポリネシア",
+            "it": "Polinesia Francese",
+            "br": "Polinésia Francesa",
+            "pt": "Polinésia Francesa",
+            "nl": "Frans-Polynesië",
+            "hr": "Francuska Polinezija",
+            "fa": "پلی‌نزی فرانسه"
+        },
+        "timezones": [
+            "UTC-10:00",
+            "UTC-09:30",
+            "UTC-09:00"
+        ],
+        "region": "Oceania",
+        "subregion": "Polynesia"
+    },
+    {
+        "ISO_code": "PT",
+        "IDD_country": 351,
+        "country": "Portugal",
+        "nativeName": "Portugal",
+        "translations": {
+            "de": "Portugal",
+            "es": "Portugal",
+            "fr": "Portugal",
+            "ja": "ポルトガル",
+            "it": "Portogallo",
+            "br": "Portugal",
+            "pt": "Portugal",
+            "nl": "Portugal",
+            "hr": "Portugal",
+            "fa": "پرتغال"
+        },
+        "timezones": [
+            "UTC-01:00",
+            "UTC"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe"
+    },
+    {
+        "ISO_code": "PR",
+        "IDD_country": 1,
+        "country": "Puerto Rico",
+        "nativeName": "Puerto Rico",
+        "translations": {
+            "de": "Puerto Rico",
+            "es": "Puerto Rico",
+            "fr": "Porto Rico",
+            "ja": "プエルトリコ",
+            "it": "Porto Rico",
+            "br": "Porto Rico",
+            "pt": "Porto Rico",
+            "nl": "Puerto Rico",
+            "hr": "Portoriko",
+            "fa": "پورتو ریکو"
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean"
+    },
+    {
+        "ISO_code": "CG",
+        "IDD_country": 242,
+        "country": "Congo",
+        "nativeName": "République du Congo",
+        "translations": {
+            "de": "Kongo",
+            "es": "Congo",
+            "fr": "Congo",
+            "ja": "コンゴ共和国",
+            "it": "Congo",
+            "br": "Congo",
+            "pt": "Congo",
+            "nl": "Congo [Republiek]",
+            "hr": "Kongo",
+            "fa": "کنگو"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Africa",
+        "subregion": "Middle Africa"
+    },
+    {
+        "ISO_code": "CD",
+        "IDD_country": 243,
+        "country": "Congo (Democratic Republic of the)",
+        "nativeName": "République démocratique du Congo",
+        "translations": {
+            "de": "Kongo (Dem. Rep.)",
+            "es": "Congo (Rep. Dem.)",
+            "fr": "Congo (Rép. dém.)",
+            "ja": "コンゴ民主共和国",
+            "it": "Congo (Rep. Dem.)",
+            "br": "RD Congo",
+            "pt": "RD Congo",
+            "nl": "Congo [DRC]",
+            "hr": "Kongo, Demokratska Republika",
+            "fa": "جمهوری کنگو"
+        },
+        "timezones": [
+            "UTC+01:00",
+            "UTC+02:00"
+        ],
+        "region": "Africa",
+        "subregion": "Middle Africa"
+    },
+    {
+        "ISO_code": "CF",
+        "IDD_country": 236,
+        "country": "Central African Republic",
+        "nativeName": "Ködörösêse tî Bêafrîka",
+        "translations": {
+            "de": "Zentralafrikanische Republik",
+            "es": "República Centroafricana",
+            "fr": "République centrafricaine",
+            "ja": "中央アフリカ共和国",
+            "it": "Repubblica Centrafricana",
+            "br": "República Centro-Africana",
+            "pt": "República Centro-Africana",
+            "nl": "Centraal-Afrikaanse Republiek",
+            "hr": "Srednjoafrička Republika",
+            "fa": "جمهوری آفریقای مرکزی"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Africa",
+        "subregion": "Middle Africa"
+    },
+    {
+        "ISO_code": "CZ",
+        "IDD_country": 420,
+        "country": "Czech Republic",
+        "nativeName": "Česká republika",
+        "translations": {
+            "de": "Tschechische Republik",
+            "es": "República Checa",
+            "fr": "République tchèque",
+            "ja": "チェコ",
+            "it": "Repubblica Ceca",
+            "br": "República Tcheca",
+            "pt": "República Checa",
+            "nl": "Tsjechië",
+            "hr": "Češka",
+            "fa": "جمهوری چک"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe"
+    },
+    {
+        "ISO_code": "DO",
+        "IDD_country": "1 809",
+        "country": "Dominican Republic",
+        "nativeName": "República Dominicana",
+        "translations": {
+            "de": "Dominikanische Republik",
+            "es": "República Dominicana",
+            "fr": "République dominicaine",
+            "ja": "ドミニカ共和国",
+            "it": "Repubblica Dominicana",
+            "br": "República Dominicana",
+            "pt": "República Dominicana",
+            "nl": "Dominicaanse Republiek",
+            "hr": "Dominikanska Republika",
+            "fa": "جمهوری دومینیکن"
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean"
+    },
+    {
+        "ISO_code": "RO",
+        "IDD_country": 40,
+        "country": "Romania",
+        "nativeName": "România",
+        "translations": {
+            "de": "Rumänien",
+            "es": "Rumania",
+            "fr": "Roumanie",
+            "ja": "ルーマニア",
+            "it": "Romania",
+            "br": "Romênia",
+            "pt": "Roménia",
+            "nl": "Roemenië",
+            "hr": "Rumunjska",
+            "fa": "رومانی"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe"
+    },
+    {
+        "ISO_code": "RW",
+        "IDD_country": 250,
+        "country": "Rwanda",
+        "nativeName": "Rwanda",
+        "translations": {
+            "de": "Ruanda",
+            "es": "Ruanda",
+            "fr": "Rwanda",
+            "ja": "ルワンダ",
+            "it": "Ruanda",
+            "br": "Ruanda",
+            "pt": "Ruanda",
+            "nl": "Rwanda",
+            "hr": "Ruanda",
+            "fa": "رواندا"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa"
+    },
+    {
+        "ISO_code": "RU",
+        "IDD_country": 7,
+        "country": "Russian Federation",
+        "nativeName": "Россия",
+        "translations": {
+            "de": "Russland",
+            "es": "Rusia",
+            "fr": "Russie",
+            "ja": "ロシア連邦",
+            "it": "Russia",
+            "br": "Rússia",
+            "pt": "Rússia",
+            "nl": "Rusland",
+            "hr": "Rusija",
+            "fa": "روسیه"
+        },
+        "timezones": [
+            "UTC+03:00",
+            "UTC+04:00",
+            "UTC+06:00",
+            "UTC+07:00",
+            "UTC+08:00",
+            "UTC+09:00",
+            "UTC+10:00",
+            "UTC+11:00",
+            "UTC+12:00"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe"
+    },
+    {
+        "ISO_code": "BL",
+        "IDD_country": 590,
+        "country": "Saint Barthélemy",
+        "nativeName": "Saint-Barthélemy",
+        "translations": {
+            "de": "Saint-Barthélemy",
+            "es": "San Bartolomé",
+            "fr": "Saint-Barthélemy",
+            "ja": "サン・バルテルミー",
+            "it": "Antille Francesi",
+            "br": "São Bartolomeu",
+            "pt": "São Bartolomeu",
+            "nl": "Saint Barthélemy",
+            "hr": "Saint Barthélemy",
+            "fa": "سن-بارتلمی"
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean"
+    },
+    {
+        "ISO_code": "WS",
+        "IDD_country": 685,
+        "country": "Samoa",
+        "nativeName": "Samoa",
+        "translations": {
+            "de": "Samoa",
+            "es": "Samoa",
+            "fr": "Samoa",
+            "ja": "サモア",
+            "it": "Samoa",
+            "br": "Samoa",
+            "pt": "Samoa",
+            "nl": "Samoa",
+            "hr": "Samoa",
+            "fa": "ساموآ"
+        },
+        "timezones": [
+            "UTC+13:00"
+        ],
+        "region": "Oceania",
+        "subregion": "Polynesia"
+    },
+    {
+        "ISO_code": "AS",
+        "IDD_country": "1 684",
+        "country": "American Samoa",
+        "nativeName": "American Samoa",
+        "translations": {
+            "de": "Amerikanisch-Samoa",
+            "es": "Samoa Americana",
+            "fr": "Samoa américaines",
+            "ja": "アメリカ領サモア",
+            "it": "Samoa Americane",
+            "br": "Samoa Americana",
+            "pt": "Samoa Americana",
+            "nl": "Amerikaans Samoa",
+            "hr": "Američka Samoa",
+            "fa": "ساموآی آمریکا"
+        },
+        "timezones": [
+            "UTC-11:00"
+        ],
+        "region": "Oceania",
+        "subregion": "Polynesia"
+    },
+    {
+        "ISO_code": "SM",
+        "IDD_country": 378,
+        "country": "San Marino",
+        "nativeName": "San Marino",
+        "translations": {
+            "de": "San Marino",
+            "es": "San Marino",
+            "fr": "Saint-Marin",
+            "ja": "サンマリノ",
+            "it": "San Marino",
+            "br": "San Marino",
+            "pt": "São Marinho",
+            "nl": "San Marino",
+            "hr": "San Marino",
+            "fa": "سان مارینو"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe"
+    },
+    {
+        "ISO_code": "ST",
+        "IDD_country": 239,
+        "country": "Sao Tome and Principe",
+        "nativeName": "São Tomé e Príncipe",
+        "translations": {
+            "de": "São Tomé und Príncipe",
+            "es": "Santo Tomé y Príncipe",
+            "fr": "Sao Tomé-et-Principe",
+            "ja": "サントメ・プリンシペ",
+            "it": "São Tomé e Príncipe",
+            "br": "São Tomé e Príncipe",
+            "pt": "São Tomé e Príncipe",
+            "nl": "Sao Tomé en Principe",
+            "hr": "Sveti Toma i Princip",
+            "fa": "کواترو دو فرویرو"
+        },
+        "timezones": [
+            "UTC"
+        ],
+        "region": "Africa",
+        "subregion": "Middle Africa"
+    },
+    {
+        "ISO_code": "SN",
+        "IDD_country": 221,
+        "country": "Senegal",
+        "nativeName": "Sénégal",
+        "translations": {
+            "de": "Senegal",
+            "es": "Senegal",
+            "fr": "Sénégal",
+            "ja": "セネガル",
+            "it": "Senegal",
+            "br": "Senegal",
+            "pt": "Senegal",
+            "nl": "Senegal",
+            "hr": "Senegal",
+            "fa": "سنگال"
+        },
+        "timezones": [
+            "UTC"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa"
+    },
+    {
+        "ISO_code": "RS",
+        "IDD_country": 381,
+        "country": "Serbia",
+        "nativeName": "Србија",
+        "translations": {
+            "de": "Serbien",
+            "es": "Serbia",
+            "fr": "Serbie",
+            "ja": "セルビア",
+            "it": "Serbia",
+            "br": "Sérvia",
+            "pt": "Sérvia",
+            "nl": "Servië",
+            "hr": "Srbija",
+            "fa": "صربستان"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe"
+    },
+    {
+        "ISO_code": "SL",
+        "IDD_country": 232,
+        "country": "Sierra Leone",
+        "nativeName": "Sierra Leone",
+        "translations": {
+            "de": "Sierra Leone",
+            "es": "Sierra Leone",
+            "fr": "Sierra Leone",
+            "ja": "シエラレオネ",
+            "it": "Sierra Leone",
+            "br": "Serra Leoa",
+            "pt": "Serra Leoa",
+            "nl": "Sierra Leone",
+            "hr": "Sijera Leone",
+            "fa": "سیرالئون"
+        },
+        "timezones": [
+            "UTC"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa"
+    },
+    {
+        "ISO_code": "SC",
+        "IDD_country": 248,
+        "country": "Seychelles",
+        "nativeName": "Seychelles",
+        "translations": {
+            "de": "Seychellen",
+            "es": "Seychelles",
+            "fr": "Seychelles",
+            "ja": "セーシェル",
+            "it": "Seychelles",
+            "br": "Seicheles",
+            "pt": "Seicheles",
+            "nl": "Seychellen",
+            "hr": "Sejšeli",
+            "fa": "سیشل"
+        },
+        "timezones": [
+            "UTC+04:00"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa"
+    },
+    {
+        "ISO_code": "SK",
+        "IDD_country": 421,
+        "country": "Slovakia",
+        "nativeName": "Slovensko",
+        "translations": {
+            "de": "Slowakei",
+            "es": "República Eslovaca",
+            "fr": "Slovaquie",
+            "ja": "スロバキア",
+            "it": "Slovacchia",
+            "br": "Eslováquia",
+            "pt": "Eslováquia",
+            "nl": "Slowakije",
+            "hr": "Slovačka",
+            "fa": "اسلواکی"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe"
+    },
+    {
+        "ISO_code": "SI",
+        "IDD_country": 386,
+        "country": "Slovenia",
+        "nativeName": "Slovenija",
+        "translations": {
+            "de": "Slowenien",
+            "es": "Eslovenia",
+            "fr": "Slovénie",
+            "ja": "スロベニア",
+            "it": "Slovenia",
+            "br": "Eslovênia",
+            "pt": "Eslovénia",
+            "nl": "Slovenië",
+            "hr": "Slovenija",
+            "fa": "اسلوونی"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe"
+    },
+    {
+        "ISO_code": "SO",
+        "IDD_country": 252,
+        "country": "Somalia",
+        "nativeName": "Soomaaliya",
+        "translations": {
+            "de": "Somalia",
+            "es": "Somalia",
+            "fr": "Somalie",
+            "ja": "ソマリア",
+            "it": "Somalia",
+            "br": "Somália",
+            "pt": "Somália",
+            "nl": "Somalië",
+            "hr": "Somalija",
+            "fa": "سومالی"
+        },
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa"
+    },
+    {
+        "ISO_code": "LK",
+        "IDD_country": 94,
+        "country": "Sri Lanka",
+        "nativeName": "śrī laṃkāva",
+        "translations": {
+            "de": "Sri Lanka",
+            "es": "Sri Lanka",
+            "fr": "Sri Lanka",
+            "ja": "スリランカ",
+            "it": "Sri Lanka",
+            "br": "Sri Lanka",
+            "pt": "Sri Lanka",
+            "nl": "Sri Lanka",
+            "hr": "Šri Lanka",
+            "fa": "سری‌لانکا"
+        },
+        "timezones": [
+            "UTC+05:30"
+        ],
+        "region": "Asia",
+        "subregion": "Southern Asia"
+    },
+    {
+        "ISO_code": "SH",
+        "IDD_country": 290,
+        "country": "Saint Helena, Ascension and Tristan da Cunha",
+        "nativeName": "Saint Helena",
+        "translations": {
+            "de": "Sankt Helena",
+            "es": "Santa Helena",
+            "fr": "Sainte-Hélène",
+            "ja": "セントヘレナ・アセンションおよびトリスタンダクーニャ",
+            "it": "Sant'Elena",
+            "br": "Santa Helena",
+            "pt": "Santa Helena",
+            "nl": "Sint-Helena",
+            "hr": "Sveta Helena",
+            "fa": "سنت هلنا، اسنشن و تریستان دا کونا"
+        },
+        "timezones": [
+            "UTC+00:00"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa"
+    },
+    {
+        "ISO_code": "KN",
+        "IDD_country": "1 869",
+        "country": "Saint Kitts and Nevis",
+        "nativeName": "Saint Kitts and Nevis",
+        "translations": {
+            "de": "St. Kitts und Nevis",
+            "es": "San Cristóbal y Nieves",
+            "fr": "Saint-Christophe-et-Niévès",
+            "ja": "セントクリストファー・ネイビス",
+            "it": "Saint Kitts e Nevis",
+            "br": "São Cristóvão e Neves",
+            "pt": "São Cristóvão e Neves",
+            "nl": "Saint Kitts en Nevis",
+            "hr": "Sveti Kristof i Nevis",
+            "fa": "سنت کیتس و نویس"
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean"
+    },
+    {
+        "ISO_code": "LC",
+        "IDD_country": "1 758",
+        "country": "Saint Lucia",
+        "nativeName": "Saint Lucia",
+        "translations": {
+            "de": "Saint Lucia",
+            "es": "Santa Lucía",
+            "fr": "Saint-Lucie",
+            "ja": "セントルシア",
+            "it": "Santa Lucia",
+            "br": "Santa Lúcia",
+            "pt": "Santa Lúcia",
+            "nl": "Saint Lucia",
+            "hr": "Sveta Lucija",
+            "fa": "سنت لوسیا"
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean"
+    },
+    {
+        "ISO_code": "MF",
+        "IDD_country": "1 599",
+        "country": "Saint Martin (French part)",
+        "nativeName": "Saint-Martin",
+        "translations": {
+            "de": "Saint Martin",
+            "es": "Saint Martin",
+            "fr": "Saint-Martin",
+            "ja": "サン・マルタン（フランス領）",
+            "it": "Saint Martin",
+            "br": "Saint Martin",
+            "pt": "Ilha São Martinho",
+            "nl": "Saint-Martin",
+            "hr": "Sveti Martin",
+            "fa": "سینت مارتن"
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean"
+    },
+    {
+        "ISO_code": "PM",
+        "IDD_country": 508,
+        "country": "Saint Pierre and Miquelon",
+        "nativeName": "Saint-Pierre-et-Miquelon",
+        "translations": {
+            "de": "Saint-Pierre und Miquelon",
+            "es": "San Pedro y Miquelón",
+            "fr": "Saint-Pierre-et-Miquelon",
+            "ja": "サンピエール島・ミクロン島",
+            "it": "Saint-Pierre e Miquelon",
+            "br": "Saint-Pierre e Miquelon",
+            "pt": "São Pedro e Miquelon",
+            "nl": "Saint Pierre en Miquelon",
+            "hr": "Sveti Petar i Mikelon",
+            "fa": "سن پیر و میکلن"
+        },
+        "timezones": [
+            "UTC-03:00"
+        ],
+        "region": "Americas",
+        "subregion": "Northern America"
+    },
+    {
+        "ISO_code": "VC",
+        "IDD_country": "1 784",
+        "country": "Saint Vincent and the Grenadines",
+        "nativeName": "Saint Vincent and the Grenadines",
+        "translations": {
+            "de": "Saint Vincent und die Grenadinen",
+            "es": "San Vicente y Granadinas",
+            "fr": "Saint-Vincent-et-les-Grenadines",
+            "ja": "セントビンセントおよびグレナディーン諸島",
+            "it": "Saint Vincent e Grenadine",
+            "br": "São Vicente e Granadinas",
+            "pt": "São Vicente e Granadinas",
+            "nl": "Saint Vincent en de Grenadines",
+            "hr": "Sveti Vincent i Grenadini",
+            "fa": "سنت وینسنت و گرنادین‌ها"
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean"
+    },
+    {
+        "ISO_code": "SD",
+        "IDD_country": 249,
+        "country": "Sudan",
+        "nativeName": "السودان",
+        "translations": {
+            "de": "Sudan",
+            "es": "Sudán",
+            "fr": "Soudan",
+            "ja": "スーダン",
+            "it": "Sudan",
+            "br": "Sudão",
+            "pt": "Sudão",
+            "nl": "Soedan",
+            "hr": "Sudan",
+            "fa": "سودان"
+        },
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "region": "Africa",
+        "subregion": "Northern Africa"
+    },
+    {
+        "ISO_code": "SR",
+        "IDD_country": 597,
+        "country": "Suriname",
+        "nativeName": "Suriname",
+        "translations": {
+            "de": "Suriname",
+            "es": "Surinam",
+            "fr": "Surinam",
+            "ja": "スリナム",
+            "it": "Suriname",
+            "br": "Suriname",
+            "pt": "Suriname",
+            "nl": "Suriname",
+            "hr": "Surinam",
+            "fa": "سورینام"
+        },
+        "timezones": [
+            "UTC-03:00"
+        ],
+        "region": "Americas",
+        "subregion": "South America"
+    },
+    {
+        "ISO_code": "SJ",
+        "IDD_country": "",
+        "country": "Svalbard and Jan Mayen",
+        "nativeName": "Svalbard og Jan Mayen",
+        "translations": {
+            "de": "Svalbard und Jan Mayen",
+            "es": "Islas Svalbard y Jan Mayen",
+            "fr": "Svalbard et Jan Mayen",
+            "ja": "スヴァールバル諸島およびヤンマイエン島",
+            "it": "Svalbard e Jan Mayen",
+            "br": "Svalbard",
+            "pt": "Svalbard",
+            "nl": "Svalbard en Jan Mayen",
+            "hr": "Svalbard i Jan Mayen",
+            "fa": "سوالبارد و یان ماین"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe"
+    },
+    {
+        "ISO_code": "SZ",
+        "IDD_country": 268,
+        "country": "Swaziland",
+        "nativeName": "Swaziland",
+        "translations": {
+            "de": "Swasiland",
+            "es": "Suazilandia",
+            "fr": "Swaziland",
+            "ja": "スワジランド",
+            "it": "Swaziland",
+            "br": "Suazilândia",
+            "pt": "Suazilândia",
+            "nl": "Swaziland",
+            "hr": "Svazi",
+            "fa": "سوازیلند"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "region": "Africa",
+        "subregion": "Southern Africa"
+    },
+    {
+        "ISO_code": "SE",
+        "IDD_country": 46,
+        "country": "Sweden",
+        "nativeName": "Sverige",
+        "translations": {
+            "de": "Schweden",
+            "es": "Suecia",
+            "fr": "Suède",
+            "ja": "スウェーデン",
+            "it": "Svezia",
+            "br": "Suécia",
+            "pt": "Suécia",
+            "nl": "Zweden",
+            "hr": "Švedska",
+            "fa": "سوئد"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Europe",
+        "subregion": "Northern Europe"
+    },
+    {
+        "ISO_code": "CH",
+        "IDD_country": 41,
+        "country": "Switzerland",
+        "nativeName": "Schweiz",
+        "translations": {
+            "de": "Schweiz",
+            "es": "Suiza",
+            "fr": "Suisse",
+            "ja": "スイス",
+            "it": "Svizzera",
+            "br": "Suíça",
+            "pt": "Suíça",
+            "nl": "Zwitserland",
+            "hr": "Švicarska",
+            "fa": "سوئیس"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Europe",
+        "subregion": "Western Europe"
+    },
+    {
+        "ISO_code": "SY",
+        "IDD_country": 963,
+        "country": "Syrian Arab Republic",
+        "nativeName": "سوريا",
+        "translations": {
+            "de": "Syrien",
+            "es": "Siria",
+            "fr": "Syrie",
+            "ja": "シリア・アラブ共和国",
+            "it": "Siria",
+            "br": "Síria",
+            "pt": "Síria",
+            "nl": "Syrië",
+            "hr": "Sirija",
+            "fa": "سوریه"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia"
+    },
+    {
+        "ISO_code": "TW",
+        "IDD_country": 886,
+        "country": "Taiwan",
+        "nativeName": "臺灣",
+        "translations": {
+            "de": "Taiwan",
+            "es": "Taiwán",
+            "fr": "Taïwan",
+            "ja": "台湾（中華民国）",
+            "it": "Taiwan",
+            "br": "Taiwan",
+            "pt": "Taiwan",
+            "nl": "Taiwan",
+            "hr": "Tajvan",
+            "fa": "تایوان"
+        },
+        "timezones": [
+            "UTC+08:00"
+        ],
+        "region": "Asia",
+        "subregion": "Eastern Asia"
+    },
+    {
+        "ISO_code": "TJ",
+        "IDD_country": 992,
+        "country": "Tajikistan",
+        "nativeName": "Тоҷикистон",
+        "translations": {
+            "de": "Tadschikistan",
+            "es": "Tayikistán",
+            "fr": "Tadjikistan",
+            "ja": "タジキスタン",
+            "it": "Tagikistan",
+            "br": "Tajiquistão",
+            "pt": "Tajiquistão",
+            "nl": "Tadzjikistan",
+            "hr": "Tađikistan",
+            "fa": "تاجیکستان"
+        },
+        "timezones": [
+            "UTC+05:00"
+        ],
+        "region": "Asia",
+        "subregion": "Central Asia"
+    },
+    {
+        "ISO_code": "TZ",
+        "IDD_country": 255,
+        "country": "Tanzania, United Republic of",
+        "nativeName": "Tanzania",
+        "translations": {
+            "de": "Tansania",
+            "es": "Tanzania",
+            "fr": "Tanzanie",
+            "ja": "タンザニア",
+            "it": "Tanzania",
+            "br": "Tanzânia",
+            "pt": "Tanzânia",
+            "nl": "Tanzania",
+            "hr": "Tanzanija",
+            "fa": "تانزانیا"
+        },
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa"
+    },
+    {
+        "ISO_code": "TL",
+        "IDD_country": 670,
+        "country": "Timor-Leste",
+        "nativeName": "Timor-Leste",
+        "translations": {
+            "de": "Timor-Leste",
+            "es": "Timor Oriental",
+            "fr": "Timor oriental",
+            "ja": "東ティモール",
+            "it": "Timor Est",
+            "br": "Timor Leste",
+            "pt": "Timor Leste",
+            "nl": "Oost-Timor",
+            "hr": "Istočni Timor",
+            "fa": "تیمور شرقی"
+        },
+        "timezones": [
+            "UTC+09:00"
+        ],
+        "region": "Asia",
+        "subregion": "South-Eastern Asia"
+    },
+    {
+        "ISO_code": "TH",
+        "IDD_country": 66,
+        "country": "Thailand",
+        "nativeName": "ประเทศไทย",
+        "translations": {
+            "de": "Thailand",
+            "es": "Tailandia",
+            "fr": "Thaïlande",
+            "ja": "タイ",
+            "it": "Tailandia",
+            "br": "Tailândia",
+            "pt": "Tailândia",
+            "nl": "Thailand",
+            "hr": "Tajland",
+            "fa": "تایلند"
+        },
+        "timezones": [
+            "UTC+07:00"
+        ],
+        "region": "Asia",
+        "subregion": "South-Eastern Asia"
+    },
+    {
+        "ISO_code": "TG",
+        "IDD_country": 228,
+        "country": "Togo",
+        "nativeName": "Togo",
+        "translations": {
+            "de": "Togo",
+            "es": "Togo",
+            "fr": "Togo",
+            "ja": "トーゴ",
+            "it": "Togo",
+            "br": "Togo",
+            "pt": "Togo",
+            "nl": "Togo",
+            "hr": "Togo",
+            "fa": "توگو"
+        },
+        "timezones": [
+            "UTC"
+        ],
+        "region": "Africa",
+        "subregion": "Western Africa"
+    },
+    {
+        "ISO_code": "TK",
+        "IDD_country": 690,
+        "country": "Tokelau",
+        "nativeName": "Tokelau",
+        "translations": {
+            "de": "Tokelau",
+            "es": "Islas Tokelau",
+            "fr": "Tokelau",
+            "ja": "トケラウ",
+            "it": "Isole Tokelau",
+            "br": "Tokelau",
+            "pt": "Toquelau",
+            "nl": "Tokelau",
+            "hr": "Tokelau",
+            "fa": "توکلائو"
+        },
+        "timezones": [
+            "UTC+13:00"
+        ],
+        "region": "Oceania",
+        "subregion": "Polynesia"
+    },
+    {
+        "ISO_code": "TO",
+        "IDD_country": 676,
+        "country": "Tonga",
+        "nativeName": "Tonga",
+        "translations": {
+            "de": "Tonga",
+            "es": "Tonga",
+            "fr": "Tonga",
+            "ja": "トンガ",
+            "it": "Tonga",
+            "br": "Tonga",
+            "pt": "Tonga",
+            "nl": "Tonga",
+            "hr": "Tonga",
+            "fa": "تونگا"
+        },
+        "timezones": [
+            "UTC+13:00"
+        ],
+        "region": "Oceania",
+        "subregion": "Polynesia"
+    },
+    {
+        "ISO_code": "TT",
+        "IDD_country": "1 868",
+        "country": "Trinidad and Tobago",
+        "nativeName": "Trinidad and Tobago",
+        "translations": {
+            "de": "Trinidad und Tobago",
+            "es": "Trinidad y Tobago",
+            "fr": "Trinité et Tobago",
+            "ja": "トリニダード・トバゴ",
+            "it": "Trinidad e Tobago",
+            "br": "Trinidad e Tobago",
+            "pt": "Trindade e Tobago",
+            "nl": "Trinidad en Tobago",
+            "hr": "Trinidad i Tobago",
+            "fa": "ترینیداد و توباگو"
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "region": "Americas",
+        "subregion": "Caribbean"
+    },
+    {
+        "ISO_code": "TN",
+        "IDD_country": 216,
+        "country": "Tunisia",
+        "nativeName": "تونس",
+        "translations": {
+            "de": "Tunesien",
+            "es": "Túnez",
+            "fr": "Tunisie",
+            "ja": "チュニジア",
+            "it": "Tunisia",
+            "br": "Tunísia",
+            "pt": "Tunísia",
+            "nl": "Tunesië",
+            "hr": "Tunis",
+            "fa": "تونس"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Africa",
+        "subregion": "Northern Africa"
+    },
+    {
+        "ISO_code": "TM",
+        "IDD_country": 993,
+        "country": "Turkmenistan",
+        "nativeName": "Türkmenistan",
+        "translations": {
+            "de": "Turkmenistan",
+            "es": "Turkmenistán",
+            "fr": "Turkménistan",
+            "ja": "トルクメニスタン",
+            "it": "Turkmenistan",
+            "br": "Turcomenistão",
+            "pt": "Turquemenistão",
+            "nl": "Turkmenistan",
+            "hr": "Turkmenistan",
+            "fa": "ترکمنستان"
+        },
+        "timezones": [
+            "UTC+05:00"
+        ],
+        "region": "Asia",
+        "subregion": "Central Asia"
+    },
+    {
+        "ISO_code": "TR",
+        "IDD_country": 90,
+        "country": "Turkey",
+        "nativeName": "Türkiye",
+        "translations": {
+            "de": "Türkei",
+            "es": "Turquía",
+            "fr": "Turquie",
+            "ja": "トルコ",
+            "it": "Turchia",
+            "br": "Turquia",
+            "pt": "Turquia",
+            "nl": "Turkije",
+            "hr": "Turska",
+            "fa": "ترکیه"
+        },
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "region": "Asia",
+        "subregion": "Western Asia"
+    },
+    {
+        "ISO_code": "TV",
+        "IDD_country": 688,
+        "country": "Tuvalu",
+        "nativeName": "Tuvalu",
+        "translations": {
+            "de": "Tuvalu",
+            "es": "Tuvalu",
+            "fr": "Tuvalu",
+            "ja": "ツバル",
+            "it": "Tuvalu",
+            "br": "Tuvalu",
+            "pt": "Tuvalu",
+            "nl": "Tuvalu",
+            "hr": "Tuvalu",
+            "fa": "تووالو"
+        },
+        "timezones": [
+            "UTC+12:00"
+        ],
+        "region": "Oceania",
+        "subregion": "Polynesia"
+    },
+    {
+        "ISO_code": "UG",
+        "IDD_country": 256,
+        "country": "Uganda",
+        "nativeName": "Uganda",
+        "translations": {
+            "de": "Uganda",
+            "es": "Uganda",
+            "fr": "Uganda",
+            "ja": "ウガンダ",
+            "it": "Uganda",
+            "br": "Uganda",
+            "pt": "Uganda",
+            "nl": "Oeganda",
+            "hr": "Uganda",
+            "fa": "اوگاندا"
+        },
+        "timezones": [
+            "UTC+03:00"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa"
+    },
+    {
+        "ISO_code": "UA",
+        "IDD_country": 380,
+        "country": "Ukraine",
+        "nativeName": "Україна",
+        "translations": {
+            "de": "Ukraine",
+            "es": "Ucrania",
+            "fr": "Ukraine",
+            "ja": "ウクライナ",
+            "it": "Ucraina",
+            "br": "Ucrânia",
+            "pt": "Ucrânia",
+            "nl": "Oekraïne",
+            "hr": "Ukrajina",
+            "fa": "وکراین"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "region": "Europe",
+        "subregion": "Eastern Europe"
+    },
+    {
+        "ISO_code": "UY",
+        "IDD_country": 598,
+        "country": "Uruguay",
+        "nativeName": "Uruguay",
+        "translations": {
+            "de": "Uruguay",
+            "es": "Uruguay",
+            "fr": "Uruguay",
+            "ja": "ウルグアイ",
+            "it": "Uruguay",
+            "br": "Uruguai",
+            "pt": "Uruguai",
+            "nl": "Uruguay",
+            "hr": "Urugvaj",
+            "fa": "اروگوئه"
+        },
+        "timezones": [
+            "UTC-03:00"
+        ],
+        "region": "Americas",
+        "subregion": "South America"
+    },
+    {
+        "ISO_code": "US",
+        "IDD_country": 1,
+        "country": "United States of America",
+        "nativeName": "United States",
+        "translations": {
+            "de": "Vereinigte Staaten von Amerika",
+            "es": "Estados Unidos",
+            "fr": "États-Unis",
+            "ja": "アメリカ合衆国",
+            "it": "Stati Uniti D'America",
+            "br": "Estados Unidos",
+            "pt": "Estados Unidos",
+            "nl": "Verenigde Staten",
+            "hr": "Sjedinjene Američke Države",
+            "fa": "ایالات متحده آمریکا"
+        },
+        "timezones": [
+            "UTC-12:00",
+            "UTC-11:00",
+            "UTC-10:00",
+            "UTC-09:00",
+            "UTC-08:00",
+            "UTC-07:00",
+            "UTC-06:00",
+            "UTC-05:00",
+            "UTC-04:00",
+            "UTC+10:00",
+            "UTC+12:00"
+        ],
+        "region": "Americas",
+        "subregion": "Northern America"
+    },
+    {
+        "ISO_code": "UZ",
+        "IDD_country": 998,
+        "country": "Uzbekistan",
+        "nativeName": "O‘zbekiston",
+        "translations": {
+            "de": "Usbekistan",
+            "es": "Uzbekistán",
+            "fr": "Ouzbékistan",
+            "ja": "ウズベキスタン",
+            "it": "Uzbekistan",
+            "br": "Uzbequistão",
+            "pt": "Usbequistão",
+            "nl": "Oezbekistan",
+            "hr": "Uzbekistan",
+            "fa": "ازبکستان"
+        },
+        "timezones": [
+            "UTC+05:00"
+        ],
+        "region": "Asia",
+        "subregion": "Central Asia"
+    },
+    {
+        "ISO_code": "VU",
+        "IDD_country": 678,
+        "country": "Vanuatu",
+        "nativeName": "Vanuatu",
+        "translations": {
+            "de": "Vanuatu",
+            "es": "Vanuatu",
+            "fr": "Vanuatu",
+            "ja": "バヌアツ",
+            "it": "Vanuatu",
+            "br": "Vanuatu",
+            "pt": "Vanuatu",
+            "nl": "Vanuatu",
+            "hr": "Vanuatu",
+            "fa": "وانواتو"
+        },
+        "timezones": [
+            "UTC+11:00"
+        ],
+        "region": "Oceania",
+        "subregion": "Melanesia"
+    },
+    {
+        "ISO_code": "VA",
+        "IDD_country": 39,
+        "country": "Holy See",
+        "nativeName": "Sancta Sedes",
+        "translations": {
+            "de": "Heiliger Stuhl",
+            "es": "Santa Sede",
+            "fr": "voir Saint",
+            "ja": "聖座",
+            "it": "Santa Sede",
+            "br": "Vaticano",
+            "pt": "Vaticano",
+            "nl": "Heilige Stoel",
+            "hr": "Sveta Stolica",
+            "fa": "سریر مقدس"
+        },
+        "timezones": [
+            "UTC+01:00"
+        ],
+        "region": "Europe",
+        "subregion": "Southern Europe"
+    },
+    {
+        "ISO_code": "VE",
+        "IDD_country": 58,
+        "country": "Venezuela (Bolivarian Republic of)",
+        "nativeName": "Venezuela",
+        "translations": {
+            "de": "Venezuela",
+            "es": "Venezuela",
+            "fr": "Venezuela",
+            "ja": "ベネズエラ・ボリバル共和国",
+            "it": "Venezuela",
+            "br": "Venezuela",
+            "pt": "Venezuela",
+            "nl": "Venezuela",
+            "hr": "Venezuela",
+            "fa": "ونزوئلا"
+        },
+        "timezones": [
+            "UTC-04:00"
+        ],
+        "region": "Americas",
+        "subregion": "South America"
+    },
+    {
+        "ISO_code": "VN",
+        "IDD_country": 84,
+        "country": "Viet Nam",
+        "nativeName": "Việt Nam",
+        "translations": {
+            "de": "Vietnam",
+            "es": "Vietnam",
+            "fr": "Viêt Nam",
+            "ja": "ベトナム",
+            "it": "Vietnam",
+            "br": "Vietnã",
+            "pt": "Vietname",
+            "nl": "Vietnam",
+            "hr": "Vijetnam",
+            "fa": "ویتنام"
+        },
+        "timezones": [
+            "UTC+07:00"
+        ],
+        "region": "Asia",
+        "subregion": "South-Eastern Asia"
+    },
+    {
+        "ISO_code": "WF",
+        "IDD_country": 681,
+        "country": "Wallis and Futuna",
+        "nativeName": "Wallis et Futuna",
+        "translations": {
+            "de": "Wallis und Futuna",
+            "es": "Wallis y Futuna",
+            "fr": "Wallis-et-Futuna",
+            "ja": "ウォリス・フツナ",
+            "it": "Wallis e Futuna",
+            "br": "Wallis e Futuna",
+            "pt": "Wallis e Futuna",
+            "nl": "Wallis en Futuna",
+            "hr": "Wallis i Fortuna",
+            "fa": "والیس و فوتونا"
+        },
+        "timezones": [
+            "UTC+12:00"
+        ],
+        "region": "Oceania",
+        "subregion": "Polynesia"
+    },
+    {
+        "ISO_code": "ZW",
+        "IDD_country": 263,
+        "country": "Zimbabwe",
+        "nativeName": "Zimbabwe",
+        "translations": {
+            "de": "Simbabwe",
+            "es": "Zimbabue",
+            "fr": "Zimbabwe",
+            "ja": "ジンバブエ",
+            "it": "Zimbabwe",
+            "br": "Zimbabwe",
+            "pt": "Zimbabué",
+            "nl": "Zimbabwe",
+            "hr": "Zimbabve",
+            "fa": "زیمباوه"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa"
+    },
+    {
+        "ISO_code": "ZM",
+        "IDD_country": 260,
+        "country": "Zambia",
+        "nativeName": "Zambia",
+        "translations": {
+            "de": "Sambia",
+            "es": "Zambia",
+            "fr": "Zambie",
+            "ja": "ザンビア",
+            "it": "Zambia",
+            "br": "Zâmbia",
+            "pt": "Zâmbia",
+            "nl": "Zambia",
+            "hr": "Zambija",
+            "fa": "زامبیا"
+        },
+        "timezones": [
+            "UTC+02:00"
+        ],
+        "region": "Africa",
+        "subregion": "Eastern Africa"
+    }
+]
